@@ -6,12 +6,7 @@
                 "Title": "Ruby",
                 "Id": "Ruby",
                 "Link": "https://github.com/Explor-Arc/resx-database/blob/main/Ruby/data.json"
-            }
-        ]
-    },
-    "2": {
-        "Title": "Programming Language",
-        "Roadmaps": [
+            },
             {
                 "Title": "Java",
                 "Id": "Java",
