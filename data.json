@@ -1,22 +1,20 @@
 {
     "1": {
-        "Title": "Ruby",
+        "Title": "Programming Language",
         "Roadmaps": [
             {
                 "Title": "Ruby",
                 "Id": "Ruby",
-                "Category": "Programming Language",
                 "Link": "https://github.com/Explor-Arc/resx-database/blob/main/Ruby/data.json"
             }
         ]
     },
     "2": {
-        "Title": "Java",
+        "Title": "Programming Language",
         "Roadmaps": [
             {
                 "Title": "Java",
                 "Id": "Java",
-                "Category": "Programming Language",
                 "Link": "https://github.com/Explor-Arc/resx-database/blob/main/Java/data.json"
             }
         ]
