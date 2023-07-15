@@ -6,7 +6,18 @@
                 "Title": "Ruby",
                 "Id": "Ruby",
                 "Category": "Programming Language",
-                "Link": "https://github.com/Explor-Arc/awesome-protomol-roadmap/blob/main/FrontEnd/data.json"
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/Ruby/data.json"
+            }
+        ]
+    },
+    "2": {
+        "Title": "Java",
+        "Roadmaps": [
+            {
+                "Title": "Java",
+                "Id": "Java",
+                "Category": "Programming Language",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/Java/data.json"
             }
         ]
     }
