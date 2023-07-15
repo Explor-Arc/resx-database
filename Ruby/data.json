@@ -1,0 +1,661 @@
+{
+    "title": "Ruby",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "board_title": "Online",
+            "links": [
+                {
+                    "href": "http://www.ruby-lang.org/",
+                    "text": "Official Website"
+                }
+            ]
+        },
+        {
+            "title": "IO",
+            "board_title": "Methods",
+            "links": [
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-binread",
+                    "text": "::binread"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-binwrite",
+                    "text": "::binwrite"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-copy_stream",
+                    "text": "::copy_stream"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-for_fd",
+                    "text": "::for_fd"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-foreach",
+                    "text": "::foreach"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-new",
+                    "text": "::new"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-open",
+                    "text": "::open"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-pipe",
+                    "text": "::pipe"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-popen",
+                    "text": "::popen"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-read",
+                    "text": "::read"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-readlines",
+                    "text": "::readlines"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-select",
+                    "text": "::select"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-sysopen",
+                    "text": "::sysopen"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-try_convert",
+                    "text": "::try_convert"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-c-write",
+                    "text": "::write"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-3C-3C",
+                    "text": "#<<"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-advise",
+                    "text": "#advise"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-autoclose-3D",
+                    "text": "#autoclose="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-autoclose-3F",
+                    "text": "#autoclose?"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-binmode",
+                    "text": "#binmode"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-binmode-3F",
+                    "text": "#binmode?"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-bytes",
+                    "text": "#bytes"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-chars",
+                    "text": "#chars"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-close",
+                    "text": "#close"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-close_on_exec-3D",
+                    "text": "#close_on_exec="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-close_on_exec-3F",
+                    "text": "#close_on_exec?"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-close_read",
+                    "text": "#close_read"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-close_write",
+                    "text": "#close_write"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-closed-3F",
+                    "text": "#closed?"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-codepoints",
+                    "text": "#codepoints"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-each",
+                    "text": "#each"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-each_byte",
+                    "text": "#each_byte"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-each_char",
+                    "text": "#each_char"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-each_codepoint",
+                    "text": "#each_codepoint"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-each_line",
+                    "text": "#each_line"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-eof",
+                    "text": "#eof"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-eof-3F",
+                    "text": "#eof?"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-external_encoding",
+                    "text": "#external_encoding"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-fcntl",
+                    "text": "#fcntl"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-fdatasync",
+                    "text": "#fdatasync"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-fileno",
+                    "text": "#fileno"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-flush",
+                    "text": "#flush"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-fsync",
+                    "text": "#fsync"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-getbyte",
+                    "text": "#getbyte"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-getc",
+                    "text": "#getc"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-gets",
+                    "text": "#gets"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-inspect",
+                    "text": "#inspect"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-internal_encoding",
+                    "text": "#internal_encoding"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-ioctl",
+                    "text": "#ioctl"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-isatty",
+                    "text": "#isatty"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-lineno",
+                    "text": "#lineno"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-lineno-3D",
+                    "text": "#lineno="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-lines",
+                    "text": "#lines"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-pid",
+                    "text": "#pid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-pos",
+                    "text": "#pos"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-pos-3D",
+                    "text": "#pos="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-print",
+                    "text": "#print"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-printf",
+                    "text": "#printf"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-putc",
+                    "text": "#putc"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-puts",
+                    "text": "#puts"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-read",
+                    "text": "#read"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-read_nonblock",
+                    "text": "#read_nonblock"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-readbyte",
+                    "text": "#readbyte"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-readchar",
+                    "text": "#readchar"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-readline",
+                    "text": "#readline"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-readlines",
+                    "text": "#readlines"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-readpartial",
+                    "text": "#readpartial"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-reopen",
+                    "text": "#reopen"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-rewind",
+                    "text": "#rewind"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-seek",
+                    "text": "#seek"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-set_encoding",
+                    "text": "#set_encoding"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-stat",
+                    "text": "#stat"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-sync",
+                    "text": "#sync"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-sync-3D",
+                    "text": "#sync="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-sysread",
+                    "text": "#sysread"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-sysseek",
+                    "text": "#sysseek"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-syswrite",
+                    "text": "#syswrite"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-tell",
+                    "text": "#tell"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-to_i",
+                    "text": "#to_i"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-to_io",
+                    "text": "#to_io"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-tty-3F",
+                    "text": "#tty?"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-ungetbyte",
+                    "text": "#ungetbyte"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-ungetc",
+                    "text": "#ungetc"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-write",
+                    "text": "#write"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/IO.html#method-i-write_nonblock",
+                    "text": "#write_nonblock"
+                }
+            ]
+        },
+        {
+            "title": "Encoding",
+            "board_title": "Methods",
+            "links": [
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-c-aliases",
+                    "text": "::aliases"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-c-compatible-3F",
+                    "text": "::compatible?"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-c-default_external",
+                    "text": "::default_external"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-c-default_external-3D",
+                    "text": "::default_external="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-c-default_internal",
+                    "text": "::default_internal"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-c-default_internal-3D",
+                    "text": "::default_internal="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-c-find",
+                    "text": "::find"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-c-list",
+                    "text": "::list"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-c-locale_charmap",
+                    "text": "::locale_charmap"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-c-name_list",
+                    "text": "::name_list"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-i-ascii_compatible-3F",
+                    "text": "#ascii_compatible?"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-i-dummy-3F",
+                    "text": "#dummy?"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-i-inspect",
+                    "text": "#inspect"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-i-name",
+                    "text": "#name"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-i-names",
+                    "text": "#names"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-i-replicate",
+                    "text": "#replicate"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Encoding.html#method-i-to_s",
+                    "text": "#to_s"
+                }
+            ]
+        },
+        {
+            "title": "Enumerator",
+            "board_title": "Methods",
+            "links": [
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-c-new",
+                    "text": "::new"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-each",
+                    "text": "#each"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-each_with_index",
+                    "text": "#each_with_index"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-each_with_object",
+                    "text": "#each_with_object"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-feed",
+                    "text": "#feed"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-inspect",
+                    "text": "#inspect"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-next",
+                    "text": "#next"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-next_values",
+                    "text": "#next_values"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-peek",
+                    "text": "#peek"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-peek_values",
+                    "text": "#peek_values"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-rewind",
+                    "text": "#rewind"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-with_index",
+                    "text": "#with_index"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Enumerator.html#method-i-with_object",
+                    "text": "#with_object"
+                }
+            ]
+        },
+        {
+            "title": "Process",
+            "board_title": "Methods",
+            "links": [
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-abort",
+                    "text": "::abort"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-daemon",
+                    "text": "::daemon"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-detach",
+                    "text": "::detach"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-egid",
+                    "text": "::egid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-egid-3D",
+                    "text": "::egid="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-euid",
+                    "text": "::euid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-euid-3D",
+                    "text": "::euid="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-exec",
+                    "text": "::exec"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-exit",
+                    "text": "::exit"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-exit-21",
+                    "text": "::exit!"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-fork",
+                    "text": "::fork"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-getpgid",
+                    "text": "::getpgid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-getpgrp",
+                    "text": "::getpgrp"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-getpriority",
+                    "text": "::getpriority"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-getrlimit",
+                    "text": "::getrlimit"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-gid",
+                    "text": "::gid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-gid-3D",
+                    "text": "::gid="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-groups",
+                    "text": "::groups"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-groups-3D",
+                    "text": "::groups="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-initgroups",
+                    "text": "::initgroups"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-kill",
+                    "text": "::kill"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-maxgroups",
+                    "text": "::maxgroups"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-maxgroups-3D",
+                    "text": "::maxgroups="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-pid",
+                    "text": "::pid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-ppid",
+                    "text": "::ppid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-setpgid",
+                    "text": "::setpgid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-setpgrp",
+                    "text": "::setpgrp"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-setpriority",
+                    "text": "::setpriority"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-setrlimit",
+                    "text": "::setrlimit"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-setsid",
+                    "text": "::setsid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-spawn",
+                    "text": "::spawn"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-times",
+                    "text": "::times"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-uid",
+                    "text": "::uid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-uid-3D",
+                    "text": "::uid="
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-wait",
+                    "text": "::wait"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-wait2",
+                    "text": "::wait2"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-waitall",
+                    "text": "::waitall"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-waitpid",
+                    "text": "::waitpid"
+                },
+                {
+                    "href": "http://www.ruby-doc.org/core/Process.html#method-c-waitpid2",
+                    "text": "::waitpid2"
+                }
+            ]
+        },
+        {
+            "title": "Pre-defined",
+            "board_title": "Variables",
+            "links": []
+        }
+    ]
+}
