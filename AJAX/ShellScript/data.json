@@ -1,0 +1,57 @@
+{
+    "title": "ShellScript",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://en.wikipedia.org/wiki/Shell_script",
+                            "text": "Wikipedia ShellScript"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "http://steve-parker.org/sh/cheatsheet.pdf",
+                            "text": "UNIX / Linux Shell Cheat Sheet [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/shellscripcheatsheet.pdf",
+                            "text": "UNIX / Linux Shell Cheat Sheet [backup]"
+                        },
+                        {
+                            "href": "http://www.mikeoliveri.com/utils/shellcheatsheet.pdf",
+                            "text": "SHELL PROGRAMMING QUICK REFERENCE GUIDE [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/shellcheatsheet.pdf",
+                            "text": "SHELL PROGRAMMING QUICK REFERENCE GUIDE [backup]"
+                        },
+                        {
+                            "href": "http://www.hoomanb.com/cs/QuickRef/bash_ref.pdf",
+                            "text": "Bourne Shell Quick Reference Card [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/bash_ref.pdf",
+                            "text": "Bourne Shell Quick Reference Card [backup]"
+                        },
+                        {
+                            "href": "http://www.devdaily.com/blog/post/linux-unix/unix-linux-shell-script-reference-cheat-sheet/",
+                            "text": "Unix/Linux shell script reference"
+                        },
+                        {
+                            "href": "http://www.linuxtopia.org/online_books/advanced_bash_scripting_guide/refcards.html",
+                            "text": "Advanced Bash-Scripting Guide [.pdf]"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
