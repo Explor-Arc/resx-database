@@ -1,0 +1,78 @@
+{
+    "title": "AJAX",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://en.wikipedia.org/wiki/AJAX",
+                            "text": "Wikipedia AJAX"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "http://refcardz.dzone.com/refcardz/getting-started-ajax",
+                            "text": "Getting Started with Ajax [.pdf]"
+                        },
+                        {
+                            "href": "http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/",
+                            "text": "JavaScript Cheat Sheet [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/javascript_cheat_sheet.pdf",
+                            "text": "JavaScript Cheat Sheet [backup]"
+                        },
+                        {
+                            "href": "http://www.javascript.su/",
+                            "text": "JavaScript in one page"
+                        },
+                        {
+                            "href": "http://www.ajax.su/ajax_activity_indicators.html",
+                            "text": "AJAX Activity Indicators"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/css",
+                            "text": "CSS"
+                        },
+                        {
+                            "href": "/html-dom",
+                            "text": "DOM"
+                        },
+                        {
+                            "href": "/gwt",
+                            "text": "GWT"
+                        },
+                        {
+                            "href": "/javascript",
+                            "text": "JavaScript"
+                        },
+                        {
+                            "href": "/jquery",
+                            "text": "jQuery"
+                        },
+                        {
+                            "href": "/prototype",
+                            "text": "Prototype"
+                        },
+                        {
+                            "href": "/richfaces",
+                            "text": "RichFaces"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
