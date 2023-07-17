@@ -1,0 +1,612 @@
+{
+    "title": "HTML",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://www.w3.org/html/",
+                            "text": "Official Website"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "http://www.html.su/",
+                            "text": "HTML/XTML in one page"
+                        },
+                        {
+                            "href": "/static/cs/html-cheat-sheet.pdf",
+                            "text": "HTML Cheat Sheet [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/html1_quickref.pdf",
+                            "text": "HTML quick reference [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/HTML-XHTML_Tag_Sheet.pdf",
+                            "text": "HTML & XHTML Tag Quick Reference [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/HTML5_Canvas_Cheat_Sheet.pdf",
+                            "text": "HTML5 Canvas Cheat Sheet [.pdf]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/characters",
+                            "text": "Characters"
+                        },
+                        {
+                            "href": "/css",
+                            "text": "CSS"
+                        },
+                        {
+                            "href": "/javascript",
+                            "text": "JavaScript"
+                        },
+                        {
+                            "href": "/xhtml",
+                            "text": "XHTML"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Basic Tags",
+            "items": [
+                {
+                    "board_title": "Basic",
+                    "links": [
+                        {
+                            "href": "http://www.w3.org/TR/DOM-Level-2-Core/core.html#ID-B63ED1A31",
+                            "text": "<!DOCTYPE>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/html",
+                            "text": "<html>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/body",
+                            "text": "<body>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/h1",
+                            "text": "<h1> to <h6>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/p",
+                            "text": "<p>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/br",
+                            "text": "<br />"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/hr",
+                            "text": "<hr />"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Images",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/img",
+                            "text": "<img />"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/map",
+                            "text": "<map>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/area",
+                            "text": "<area />"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Links",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/a",
+                            "text": "<a>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/link",
+                            "text": "<link />"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Lists",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/ul",
+                            "text": "<ul>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/ol",
+                            "text": "<ol>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/li",
+                            "text": "<li>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/dir",
+                            "text": "<dir>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/dl",
+                            "text": "<dl>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/dt",
+                            "text": "<dt>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/dd",
+                            "text": "<dd>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/menu",
+                            "text": "<menu>"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Formatting",
+            "items": [
+                {
+                    "board_title": "Format",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/acronym",
+                            "text": "<acronym>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/abbr",
+                            "text": "<abbr>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/address",
+                            "text": "<address>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/b",
+                            "text": "<b>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/bdo",
+                            "text": "<bdo>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/big",
+                            "text": "<big>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/blockquote",
+                            "text": "<blockquote>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/center",
+                            "text": "<center>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/cite",
+                            "text": "<cite>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/code",
+                            "text": "<code>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/del",
+                            "text": "<del>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/dfn",
+                            "text": "<dfn>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/em",
+                            "text": "<em>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/font",
+                            "text": "<font>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/i",
+                            "text": "<i>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/ins",
+                            "text": "<ins>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/kbd",
+                            "text": "<kbd>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/pre",
+                            "text": "<pre>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/q",
+                            "text": "<q>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/s",
+                            "text": "<s>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/samp",
+                            "text": "<samp>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/small",
+                            "text": "<small>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/strike",
+                            "text": "<strike>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/strong",
+                            "text": "<strong>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/sub",
+                            "text": "<sub>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/sup",
+                            "text": "<sup>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/tt",
+                            "text": "<tt>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/u",
+                            "text": "<u>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/var",
+                            "text": "<var>"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Form/Table",
+            "items": [
+                {
+                    "board_title": "Forms",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/form",
+                            "text": "<form>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/input",
+                            "text": "<input />"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/textarea",
+                            "text": "<textarea>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/button",
+                            "text": "<button>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/select",
+                            "text": "<select>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/optgroup",
+                            "text": "<optgroup>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/option",
+                            "text": "<option>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/label",
+                            "text": "<label>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/fieldset",
+                            "text": "<fieldset>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/legend",
+                            "text": "<legend>"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Tables",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/table",
+                            "text": "<table>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/caption",
+                            "text": "<caption>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/th",
+                            "text": "<th>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/tr",
+                            "text": "<tr>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/td",
+                            "text": "<td>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/thead",
+                            "text": "<thead>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/tbody",
+                            "text": "<tbody>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/tfoot",
+                            "text": "<tfoot>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/col",
+                            "text": "<col />"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/colgroup",
+                            "text": "<colgroup>"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Frames",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/frame",
+                            "text": "<frame />"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/frameset",
+                            "text": "<frameset>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/noframes",
+                            "text": "<noframes>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/iframe",
+                            "text": "<iframe>"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Others",
+            "items": [
+                {
+                    "board_title": "Styles",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/style",
+                            "text": "<style>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/div",
+                            "text": "<div>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/span",
+                            "text": "<span>"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Meta Info",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/head",
+                            "text": "<head>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/title",
+                            "text": "<title>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/meta",
+                            "text": "<meta>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/base",
+                            "text": "<base />"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/basefont",
+                            "text": "<basefont />"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Programming",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/script",
+                            "text": "<script>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/noscript",
+                            "text": "<noscript>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/applet",
+                            "text": "<applet>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/object",
+                            "text": "<object>"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/param",
+                            "text": "<param />"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Attributes",
+            "items": [
+                {
+                    "board_title": "Core",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Class_selectors",
+                            "text": "class"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/ID_selectors",
+                            "text": "id"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/style",
+                            "text": "style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/title",
+                            "text": "title"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Language",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/dir",
+                            "text": "dir"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/DOM/element.lang",
+                            "text": "lang"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Keyboard",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/DOM/element.accessKey",
+                            "text": "accesskey"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/DOM/element.tabIndex",
+                            "text": "tabindex"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "HTML Events",
+            "items": [
+                {
+                    "board_title": "<body>Events",
+                    "links": []
+                },
+                {
+                    "board_title": "Form Events",
+                    "links": []
+                },
+                {
+                    "board_title": "Image Events",
+                    "links": []
+                },
+                {
+                    "board_title": "Mouse Events",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Entities",
+            "items": [
+                {
+                    "board_title": "Character",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Status 1XX",
+            "items": [
+                {
+                    "board_title": "1XX:Information",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Status 2XX",
+            "items": [
+                {
+                    "board_title": "2XX:Successful",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Status 3XX",
+            "items": [
+                {
+                    "board_title": "3XX:Redirection",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Status 4XX",
+            "items": [
+                {
+                    "board_title": "4XX:Client Error",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Status 5XX",
+            "items": [
+                {
+                    "board_title": "5XX:Server Error",
+                    "links": []
+                }
+            ]
+        }
+    ]
+}
