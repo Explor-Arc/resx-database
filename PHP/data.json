@@ -1,0 +1,2919 @@
+{
+    "title": "PHP",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://php.net/",
+                            "text": "Official Website"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "/static/cs/php_cheat_sheet.pdf",
+                            "text": "PHP Cheat Sheet [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/SmartyCheatSheet.pdf",
+                            "text": "Smarty cheat sheet for template designers [.pdf]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/symfony",
+                            "text": "Symfony"
+                        },
+                        {
+                            "href": "/doctrine",
+                            "text": "Doctrine"
+                        },
+                        {
+                            "href": "/php-frameworks",
+                            "text": "PHP Frameworks"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Array",
+            "items": [
+                {
+                    "board_title": "Array Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.array.php",
+                            "text": "array()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-change-key-case.php",
+                            "text": "array_change_key_case()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-chunk.php",
+                            "text": "array_chunk()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-combine.php",
+                            "text": "array_combine()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-count-values.php",
+                            "text": "array_count_values()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-diff.php",
+                            "text": "array_diff()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-diff-assoc.php",
+                            "text": "array_diff_assoc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-diff-key.php",
+                            "text": "array_diff_key()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-diff-uassoc.php",
+                            "text": "array_diff_uassoc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-diff-ukey.php",
+                            "text": "array_diff_ukey()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-fill.php",
+                            "text": "array_fill()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-filter.php",
+                            "text": "array_filter()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-flip.php",
+                            "text": "array_flip()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-intersect.php",
+                            "text": "array_intersect()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-intersect-assoc.php",
+                            "text": "array_intersect_assoc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-intersect-key.php",
+                            "text": "array_intersect_key()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-intersect-uassoc.php",
+                            "text": "array_intersect_uassoc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-intersect-ukey.php",
+                            "text": "array_intersect_ukey()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-key-exists.php",
+                            "text": "array_key_exists()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-keys.php",
+                            "text": "array_keys()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-map.php",
+                            "text": "array_map()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-merge.php",
+                            "text": "array_merge()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-merge-recursive.php",
+                            "text": "array_merge_recursive()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-multisort.php",
+                            "text": "array_multisort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-pad.php",
+                            "text": "array_pad()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-pop.php",
+                            "text": "array_pop()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-product.php",
+                            "text": "array_product()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-push.php",
+                            "text": "array_push()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-rand.php",
+                            "text": "array_rand()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-reduce.php",
+                            "text": "array_reduce()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-reverse.php",
+                            "text": "array_reverse()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-search.php",
+                            "text": "array_search()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-shift.php",
+                            "text": "array_shift()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-slice.php",
+                            "text": "array_slice()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-splice.php",
+                            "text": "array_splice()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-sum.php",
+                            "text": "array_sum()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-udiff.php",
+                            "text": "array_udiff()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-udiff-assoc.php",
+                            "text": "array_udiff_assoc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-udiff-uassoc.php",
+                            "text": "array_udiff_uassoc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-uintersect.php",
+                            "text": "array_uintersect()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-uintersect-assoc.php",
+                            "text": "array_uintersect_assoc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-uintersect-uassoc.php",
+                            "text": "array_uintersect_uassoc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-unique.php",
+                            "text": "array_unique()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-unshift.php",
+                            "text": "array_unshift()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-values.php",
+                            "text": "array_values()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-walk.php",
+                            "text": "array_walk()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.array-walk-recursive.php",
+                            "text": "array_walk_recursive()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.arsort.php",
+                            "text": "arsort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.asort.php",
+                            "text": "asort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.compact.php",
+                            "text": "compact()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.count.php",
+                            "text": "count()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.current.php",
+                            "text": "current()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.each.php",
+                            "text": "each()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.end.php",
+                            "text": "end()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.extract.php",
+                            "text": "extract()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.in-array.php",
+                            "text": "in_array()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.key.php",
+                            "text": "key()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.krsort.php",
+                            "text": "krsort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ksort.php",
+                            "text": "ksort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.list.php",
+                            "text": "list()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.natcasesort.php",
+                            "text": "natcasesort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.natsort.php",
+                            "text": "natsort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.next.php",
+                            "text": "next()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.current.php",
+                            "text": "pos()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.prev.php",
+                            "text": "prev()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.range.php",
+                            "text": "range()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.reset.php",
+                            "text": "reset()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.rsort.php",
+                            "text": "rsort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.shuffle.php",
+                            "text": "shuffle()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.count.php",
+                            "text": "sizeof()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.sort.php",
+                            "text": "sort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.uasort.php",
+                            "text": "uasort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.uksort.php",
+                            "text": "uksort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.usort.php",
+                            "text": "usort()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Array Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "String",
+            "items": [
+                {
+                    "board_title": "String Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.addcslashes.php",
+                            "text": "addcslashes()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.addslashes.php",
+                            "text": "addslashes()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.bin2hex.php",
+                            "text": "bin2hex()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.rtrim.php",
+                            "text": "chop()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.chr.php",
+                            "text": "chr()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.chunk-split.php",
+                            "text": "chunk_split()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.convert-cyr-string.php",
+                            "text": "convert_cyr_string()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.convert-uudecode.php",
+                            "text": "convert_uudecode()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.convert-uuencode.php",
+                            "text": "convert_uuencode()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.count-chars.php",
+                            "text": "count_chars()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.crc32.php",
+                            "text": "crc32()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.crypt.php",
+                            "text": "crypt()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.echo.php",
+                            "text": "echo()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.explode.php",
+                            "text": "explode()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fprintf.php",
+                            "text": "fprintf()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.htmlspecialchars.php",
+                            "text": "get_html_translation_table()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.hebrev.php",
+                            "text": "hebrev()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.hebrevc.php",
+                            "text": "hebrevc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.html-entity-decode.php",
+                            "text": "html_entity_decode()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.htmlentities.php",
+                            "text": "htmlentities()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.htmlspecialchars-decode.php",
+                            "text": "htmlspecialchars_decode()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.htmlspecialchars.php",
+                            "text": "htmlspecialchars()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.implode.php",
+                            "text": "implode()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.join.php",
+                            "text": "join()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.levenshtein.php",
+                            "text": "levenshtein()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.localeconv.php",
+                            "text": "localeconv()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ltrim.php",
+                            "text": "ltrim()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.md5.php",
+                            "text": "md5()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.md5-file.php",
+                            "text": "md5_file()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.metaphone.php",
+                            "text": "metaphone()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.money-format.php",
+                            "text": "money_format()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.nl-langinfo.php",
+                            "text": "nl_langinfo()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.nl2br.php",
+                            "text": "nl2br()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.number-format.php",
+                            "text": "number_format()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ord.php",
+                            "text": "ord()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.parse-str.php",
+                            "text": "parse_str()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.print.php",
+                            "text": "print()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.printf.php",
+                            "text": "printf()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.quoted-printable-decode.php",
+                            "text": "quoted_printable_decode()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.quotemeta.php",
+                            "text": "quotemeta()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.rtrim.php",
+                            "text": "rtrim()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.setlocale.php",
+                            "text": "setlocale()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.sha1.php",
+                            "text": "sha1()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.sha1-file.php",
+                            "text": "sha1_file()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.similar-text.php",
+                            "text": "similar_text()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.soundex.php",
+                            "text": "soundex()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.sprintf.php",
+                            "text": "sprintf()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.sscanf.php",
+                            "text": "sscanf()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.str-ireplace.php",
+                            "text": "str_ireplace()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.str-pad.php",
+                            "text": "str_pad()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.str-repeat.php",
+                            "text": "str_repeat()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.str-replace.php",
+                            "text": "str_replace()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.str-rot13.php",
+                            "text": "str_rot13()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.str-shuffle.php",
+                            "text": "str_shuffle()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.str-split.php",
+                            "text": "str_split()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.str-word-count.php",
+                            "text": "str_word_count()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strcasecmp.php",
+                            "text": "strcasecmp()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strchr.php",
+                            "text": "strchr()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strcmp.php",
+                            "text": "strcmp()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strcoll.php",
+                            "text": "strcoll()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strcspn.php",
+                            "text": "strcspn()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strip-tags.php",
+                            "text": "strip_tags()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.addcslashes.php",
+                            "text": "stripcslashes()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.addslashes.php",
+                            "text": "stripslashes()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.stripos.php",
+                            "text": "stripos()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.stristr.php",
+                            "text": "stristr()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strlen.php",
+                            "text": "strlen()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strnatcasecmp.php",
+                            "text": "strnatcasecmp()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strnatcmp.php",
+                            "text": "strnatcmp()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strncasecmp.php",
+                            "text": "strncasecmp()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strncmp.php",
+                            "text": "strncmp()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strpbrk.php",
+                            "text": "strpbrk()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strpos.php",
+                            "text": "strpos()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strrchr.php",
+                            "text": "strrchr()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strrev.php",
+                            "text": "strrev()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strripos.php",
+                            "text": "strripos()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strrpos.php",
+                            "text": "strrpos()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strspn.php",
+                            "text": "strspn()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strstr.php",
+                            "text": "strstr()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strtok.php",
+                            "text": "strtok()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strtolower.php",
+                            "text": "strtolower()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strtoupper.php",
+                            "text": "strtoupper()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strtr.php",
+                            "text": "strtr()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.substr.php",
+                            "text": "substr()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.substr-compare.php",
+                            "text": "substr_compare()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.substr-count.php",
+                            "text": "substr_count()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.substr-replace.php",
+                            "text": "substr_replace()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.trim.php",
+                            "text": "trim()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ucfirst.php",
+                            "text": "ucfirst()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ucwords.php",
+                            "text": "ucwords()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.vfprintf.php",
+                            "text": "vfprintf()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.vprintf.php",
+                            "text": "vprintf()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.vsprintf.php",
+                            "text": "vsprintf()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.wordwrap.php",
+                            "text": "wordwrap()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "String Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Variable",
+            "items": [
+                {
+                    "board_title": "Handling Functions",
+                    "links": [
+                        {
+                            "href": "http://www.php.net/manual/en/function.boolval.php",
+                            "text": "boolval"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.debug-zval-dump.php",
+                            "text": "debug_zval_dump"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.doubleval.php",
+                            "text": "doubleval"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.empty.php",
+                            "text": "empty"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.floatval.php",
+                            "text": "floatval"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.get-defined-vars.php",
+                            "text": "get_defined_vars"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.get-resource-type.php",
+                            "text": "get_resource_type"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.gettype.php",
+                            "text": "gettype"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.import-request-variables.php",
+                            "text": "import_request_variables"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.intval.php",
+                            "text": "intval"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-array.php",
+                            "text": "is_array"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-bool.php",
+                            "text": "is_bool"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-callable.php",
+                            "text": "is_callable"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-double.php",
+                            "text": "is_double"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-float.php",
+                            "text": "is_float"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-int.php",
+                            "text": "is_int"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-integer.php",
+                            "text": "is_integer"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-long.php",
+                            "text": "is_long"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-null.php",
+                            "text": "is_null"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-numeric.php",
+                            "text": "is_numeric"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-object.php",
+                            "text": "is_object"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-real.php",
+                            "text": "is_real"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-resource.php",
+                            "text": "is_resource"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-scalar.php",
+                            "text": "is_scalar"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.is-string.php",
+                            "text": "is_string"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.isset.php",
+                            "text": "isset"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.print-r.php",
+                            "text": "print_r"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.serialize.php",
+                            "text": "serialize"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.settype.php",
+                            "text": "settype"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.strval.php",
+                            "text": "strval"
+                        },
+                        {
+                            "href": "function.unserialize.php",
+                            "text": "unserialize"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.unset.php",
+                            "text": "unset"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.var-dump.php",
+                            "text": "var_dump"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/function.var-export.php",
+                            "text": "var_export"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Date/Time",
+            "items": [
+                {
+                    "board_title": "Date/Time Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.checkdate.php",
+                            "text": "checkdate()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.date-default-timezone-get.php",
+                            "text": "date_default_timezone_get()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.date-default-timezone-set.php",
+                            "text": "date_default_timezone_set()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.date-sunrise.php",
+                            "text": "date_sunrise()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.date-sunset.php",
+                            "text": "date_sunset()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.date.php",
+                            "text": "date()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.getdate.php",
+                            "text": "getdate()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.gettimeofday.php",
+                            "text": "gettimeofday()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.gmdate.php",
+                            "text": "gmdate()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.gmmktime.php",
+                            "text": "gmmktime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.gmstrftime.php",
+                            "text": "gmstrftime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.idate.php",
+                            "text": "idate()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.localtime.php",
+                            "text": "localtime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.microtime.php",
+                            "text": "microtime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.mktime.php",
+                            "text": "mktime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strftime.php",
+                            "text": "strftime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strftime.php",
+                            "text": "strptime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.strtotime.php",
+                            "text": "strtotime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.time.php",
+                            "text": "time()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Date/Time Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Directory",
+            "items": [
+                {
+                    "board_title": "Directory Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.chdir.php",
+                            "text": "chdir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.chroot.php",
+                            "text": "chroot()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.dir.php",
+                            "text": "dir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.closedir.php",
+                            "text": "closedir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.getcwd.php",
+                            "text": "getcwd()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.opendir.php",
+                            "text": "opendir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.readdir.php",
+                            "text": "readdir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.rewinddir.php",
+                            "text": "rewinddir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.scandir.php",
+                            "text": "scandir()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Directory Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Error",
+            "items": [
+                {
+                    "board_title": "Error Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.debug-backtrace.php",
+                            "text": "debug_backtrace()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.debug-print-backtrace.php",
+                            "text": "debug_print_backtrace()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.error-get-last.php",
+                            "text": "error_get_last()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.error-log.php",
+                            "text": "error_log()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.error-reporting.php",
+                            "text": "error_reporting()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.restore-error-handler.php",
+                            "text": "restore_error_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.restore-exception-handler.php",
+                            "text": "restore_exception_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.set-error-handler.php",
+                            "text": "set_error_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.set-exception-handler.php",
+                            "text": "set_exception_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.trigger-error.php",
+                            "text": "trigger_error()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.user-error.php",
+                            "text": "user_error()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Error Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Math",
+            "items": [
+                {
+                    "board_title": "Math Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.abs.php",
+                            "text": "abs()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.acos.php",
+                            "text": "acos()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.acosh.php",
+                            "text": "acosh()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.asin.php",
+                            "text": "asin()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.asinh.php",
+                            "text": "asinh()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.atan.php",
+                            "text": "atan()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.atan2.php",
+                            "text": "atan2()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.atanh.php",
+                            "text": "atanh()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.base-convert.php",
+                            "text": "base_convert()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.bindec.php",
+                            "text": "bindec()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ceil.php",
+                            "text": "ceil()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.cos.php",
+                            "text": "cos()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.cosh.php",
+                            "text": "cosh()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.decbin.php",
+                            "text": "decbin()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.dechex.php",
+                            "text": "dechex()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.decoct.php",
+                            "text": "decoct()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.deg2rad.php",
+                            "text": "deg2rad()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.exp.php",
+                            "text": "exp()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.expm1.php",
+                            "text": "expm1()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.floor.php",
+                            "text": "floor()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fmod.php",
+                            "text": "fmod()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.rand.php",
+                            "text": "getrandmax()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.hexdec.php",
+                            "text": "hexdec()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.hypot.php",
+                            "text": "hypot()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-finite.php",
+                            "text": "is_finite()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-infinite.php",
+                            "text": "is_infinite()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-nan.php",
+                            "text": "is_nan()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.lcg-value.php",
+                            "text": "lcg_value()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.log.php",
+                            "text": "log()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.log10.php",
+                            "text": "log10()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.log.php",
+                            "text": "log1p()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.max.php",
+                            "text": "max()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.min.php",
+                            "text": "min()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.mt-rand.php",
+                            "text": "mt_getrandmax()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.mt-rand.php",
+                            "text": "mt_rand()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.mt-srand.php",
+                            "text": "mt_srand()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.octdec.php",
+                            "text": "octdec()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.pi.php",
+                            "text": "pi()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.pow.php",
+                            "text": "pow()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.rad2deg.php",
+                            "text": "rad2deg()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.rand.php",
+                            "text": "rand()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.round.php",
+                            "text": "round()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.sin.php",
+                            "text": "sin()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.sinh.php",
+                            "text": "sinh()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.sqrt.php",
+                            "text": "sqrt()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.srand.php",
+                            "text": "srand()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.tan.php",
+                            "text": "tan()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.tanh.php",
+                            "text": "tanh()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Math Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Filesystem",
+            "items": [
+                {
+                    "board_title": "Filesystem Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.basename.php",
+                            "text": "basename()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.chgrp.php",
+                            "text": "chgrp()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.chmod.php",
+                            "text": "chmod()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.chown.php",
+                            "text": "chown()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.clearstatcache.php",
+                            "text": "clearstatcache()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.copy.php",
+                            "text": "copy()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.dirname.php",
+                            "text": "dirname()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.disk-free-space.php",
+                            "text": "disk_free_space()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.disk-total-space.php",
+                            "text": "disk_total_space()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.disk-free-space.php",
+                            "text": "diskfreespace()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fclose.php",
+                            "text": "fclose()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.feof.php",
+                            "text": "feof()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fflush.php",
+                            "text": "fflush()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fgetc.php",
+                            "text": "fgetc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fgetcsv.php",
+                            "text": "fgetcsv()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fgets.php",
+                            "text": "fgets()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fgetss.php",
+                            "text": "fgetss()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.file.php",
+                            "text": "file()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.file-exists.php",
+                            "text": "file_exists()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.file-get-contents.php",
+                            "text": "file_get_contents()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.file-put-contents.php",
+                            "text": "file_put_contents"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fileatime.php",
+                            "text": "fileatime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filectime.php",
+                            "text": "filectime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filegroup.php",
+                            "text": "filegroup()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fileinode.php",
+                            "text": "fileinode()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filemtime.php",
+                            "text": "filemtime()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fileowner.php",
+                            "text": "fileowner()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fileperms.php",
+                            "text": "fileperms()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filesize.php",
+                            "text": "filesize()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filetype.php",
+                            "text": "filetype()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.flock.php",
+                            "text": "flock()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fnmatch.php",
+                            "text": "fnmatch()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fopen.php",
+                            "text": "fopen()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fpassthru.php",
+                            "text": "fpassthru()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fputcsv.php",
+                            "text": "fputcsv()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fwrite.php",
+                            "text": "fputs()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fread.php",
+                            "text": "fread()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fscanf.php",
+                            "text": "fscanf()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fseek.php",
+                            "text": "fseek()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fstat.php",
+                            "text": "fstat()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftell.php",
+                            "text": "ftell()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftruncate.php",
+                            "text": "ftruncate()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.fwrite.php",
+                            "text": "fwrite()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.glob.php",
+                            "text": "glob()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-dir.php",
+                            "text": "is_dir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-executable.php",
+                            "text": "is_executable()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-file.php",
+                            "text": "is_file()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-link.php",
+                            "text": "is_link()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-readable.php",
+                            "text": "is_readable()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-uploaded-file.php",
+                            "text": "is_uploaded_file()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-writable.php",
+                            "text": "is_writable()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.is-writable.php",
+                            "text": "is_writeable()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.link.php",
+                            "text": "link()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.linkinfo.php",
+                            "text": "linkinfo()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.lstat.php",
+                            "text": "lstat()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.mkdir.php",
+                            "text": "mkdir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.move-uploaded-file.php",
+                            "text": "move_uploaded_file()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.parse-ini-file.php",
+                            "text": "parse_ini_file()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.pathinfo.php",
+                            "text": "pathinfo()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.popen.php",
+                            "text": "pclose()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.popen.php",
+                            "text": "popen()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.readfile.php",
+                            "text": "readfile()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.readlink.php",
+                            "text": "readlink()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.realpath.php",
+                            "text": "realpath()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.rename.php",
+                            "text": "rename()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.rewind.php",
+                            "text": "rewind()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.rmdir.php",
+                            "text": "rmdir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.set-file-buffer.php",
+                            "text": "set_file_buffer()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.stat.php",
+                            "text": "stat()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.symlink.php",
+                            "text": "symlink()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.tempnam.php",
+                            "text": "tempnam()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.tmpfile.php",
+                            "text": "tmpfile()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.touch.php",
+                            "text": "touch()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.umask.php",
+                            "text": "umask()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.unlink.php",
+                            "text": "unlink()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Filesystem Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Filter",
+            "items": [
+                {
+                    "board_title": "Filter Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.filter-has-var.php",
+                            "text": "filter_has_var()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filter-id.php",
+                            "text": "filter_id()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filter-input.php",
+                            "text": "filter_input()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filter-input-array.php",
+                            "text": "filter_input_array()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filter-list.php",
+                            "text": "filter_list()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filter-var-array.php",
+                            "text": "filter_var_array()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.filter-var.php",
+                            "text": "filter_var()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Filters",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-callback",
+                            "text": "FILTER_CALLBACK"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-sanitize-string",
+                            "text": "FILTER_SANITIZE_STRING"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-sanitize-stripped",
+                            "text": "FILTER_SANITIZE_STRIPPED"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-sanitize-encoded",
+                            "text": "FILTER_SANITIZE_ENCODED"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-sanitize-special-chars",
+                            "text": "FILTER_SANITIZE_SPECIAL_CHARS"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-sanitize-email",
+                            "text": "FILTER_SANITIZE_EMAIL"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-sanitize-url",
+                            "text": "FILTER_SANITIZE_URL"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-sanitize-number-int",
+                            "text": "FILTER_SANITIZE_NUMBER_INT"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-sanitize-number-float",
+                            "text": "filter_sanitize_number_float"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-sanitize-magic-quotes",
+                            "text": "filter_sanitize_magic_quotes"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-unsafe-raw",
+                            "text": "FILTER_UNSAFE_RAW"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-validate-int",
+                            "text": "FILTER_VALIDATE_INT"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-validate-boolean",
+                            "text": "FILTER_VALIDATE_BOOLEAN"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-validate-float",
+                            "text": "FILTER_VALIDATE_FLOAT"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-validate-regexp",
+                            "text": "FILTER_VALIDATE_REGEXP"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-validate-url",
+                            "text": "FILTER_VALIDATE_URL"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-validate-email",
+                            "text": "FILTER_VALIDATE_EMAIL"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/filter.constants.php#constant.filter-validate-ip",
+                            "text": "FILTER_VALIDATE_IP"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Calendar",
+            "items": [
+                {
+                    "board_title": "Calendar Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.cal-days-in-month.php",
+                            "text": "cal_days_in_month()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.cal-from-jd.php",
+                            "text": "cal_from_jd()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.cal-info.php",
+                            "text": "cal_info()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.cal-to-jd.php",
+                            "text": "cal_to_jd()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.easter-date.php",
+                            "text": "easter_date()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.easter-days.php",
+                            "text": "easter_days()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.frenchtojd.php",
+                            "text": "FrenchToJD()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.gregoriantojd.php",
+                            "text": "GregorianToJD()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.jddayofweek.php",
+                            "text": "JDDayOfWeek()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.jdmonthname.php",
+                            "text": "JDMonthName()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.jdtofrench.php",
+                            "text": "JDToFrench()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.jdtogregorian.php",
+                            "text": "JDToGregorian()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.jdtojewish.php",
+                            "text": "jdtojewish()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.jdtojulian.php",
+                            "text": "JDToJulian()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.jdtounix.php",
+                            "text": "jdtounix()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.jewishtojd.php",
+                            "text": "JewishToJD()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.juliantojd.php",
+                            "text": "JulianToJD()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.unixtojd.php",
+                            "text": "unixtojd()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Calendar Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "FTP",
+            "items": [
+                {
+                    "board_title": "FTP Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-alloc.php",
+                            "text": "ftp_alloc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-cdup.php",
+                            "text": "ftp_cdup()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-chdir.php",
+                            "text": "ftp_chdir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-chmod.php",
+                            "text": "ftp_chmod()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-close.php",
+                            "text": "ftp_close()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-connect.php",
+                            "text": "ftp_connect()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-delete.php",
+                            "text": "ftp_delete()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-exec.php",
+                            "text": "ftp_exec()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-fget.php",
+                            "text": "ftp_fget()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-fput.php",
+                            "text": "ftp_fput()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-get-option.php",
+                            "text": "ftp_get_option()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-get.php",
+                            "text": "ftp_get()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-login.php",
+                            "text": "ftp_login()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-mdtm.php",
+                            "text": "ftp_mdtm()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-mkdir.php",
+                            "text": "ftp_mkdir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-nb-continue.php",
+                            "text": "ftp_nb_continue()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-nb-fget.php",
+                            "text": "ftp_nb_fget()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-nb-fput.php",
+                            "text": "ftp_nb_fput()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-nb-get.php",
+                            "text": "ftp_nb_get()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-nb-put.php",
+                            "text": "ftp_nb_put()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-nlist.php",
+                            "text": "ftp_nlist()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-pasv.php",
+                            "text": "ftp_pasv()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-put.php",
+                            "text": "ftp_put()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-pwd.php",
+                            "text": "ftp_pwd()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-close.php",
+                            "text": "ftp_quit()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-raw.php",
+                            "text": "ftp_raw()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-rawlist.php",
+                            "text": "ftp_rawlist()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-rename.php",
+                            "text": "ftp_rename()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-rmdir.php",
+                            "text": "ftp_rmdir()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-set-option.php",
+                            "text": "ftp_set_option()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-site.php",
+                            "text": "ftp_site()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-size.php",
+                            "text": "ftp_size()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-ssl-connect.php",
+                            "text": "ftp_ssl_connect()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ftp-systype.php",
+                            "text": "ftp_systype()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "FTP Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "HTTP",
+            "items": [
+                {
+                    "board_title": "HTTP Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.header.php",
+                            "text": "header()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.headers-list.php",
+                            "text": "headers_list()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.headers-sent.php",
+                            "text": "headers_sent()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.setcookie.php",
+                            "text": "setcookie()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.setrawcookie.php",
+                            "text": "setrawcookie()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Libxml",
+            "items": [
+                {
+                    "board_title": "Libxml Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.libxml-clear-errors.php",
+                            "text": "libxml_clear_errors()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.libxml-get-errors.php",
+                            "text": "libxml_get_errors()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.libxml-get-last-error.php",
+                            "text": "libxml_get_last_error()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.libxml-use-internal-errors.php",
+                            "text": "libxml_use_internal_errors()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Libxml Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Mail",
+            "items": [
+                {
+                    "board_title": "Mail Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.mail.php",
+                            "text": "mail()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Misc.",
+            "items": [
+                {
+                    "board_title": "Misc. Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.connection-aborted.php",
+                            "text": "connection_aborted()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.connection-status.php",
+                            "text": "connection_status()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.constant.php",
+                            "text": "constant()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.define.php",
+                            "text": "define()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.defined.php",
+                            "text": "defined()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.die.php",
+                            "text": "die()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.eval.php",
+                            "text": "eval()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.exit.php",
+                            "text": "exit()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.get-browser.php",
+                            "text": "get_browser()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.highlight-file.php",
+                            "text": "highlight_file()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.highlight-string.php",
+                            "text": "highlight_string()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.ignore-user-abort.php",
+                            "text": "ignore_user_abort()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.pack.php",
+                            "text": "pack()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.php-strip-whitespace.php",
+                            "text": "php_strip_whitespace()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.highlight-file.php",
+                            "text": "show_source()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.sleep.php",
+                            "text": "sleep()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.time-nanosleep.php",
+                            "text": "time_nanosleep()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.time-sleep-until.php",
+                            "text": "time_sleep_until()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.uniqid.php",
+                            "text": "uniqid()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.unpack.php",
+                            "text": "unpack()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.usleep.php",
+                            "text": "usleep()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Misc. Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "MySQLi",
+            "items": [
+                {
+                    "board_title": "MySQLi Class",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/mysqli.affected-rows.php",
+                            "text": "mysqli::$affected_rows"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.autocommit.php",
+                            "text": "mysqli::autocommit()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.change-user.php",
+                            "text": "mysqli::change_user()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.character-set-name.php",
+                            "text": "mysqli::character_set_name()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.client-info.php",
+                            "text": "mysqli::$client_info"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.client-version.php",
+                            "text": "mysqli::$client_version"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.close.php",
+                            "text": "mysqli::close()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.commit.php",
+                            "text": "mysqli::commit()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.connect-errno.php",
+                            "text": "mysqli::$connect_errno"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.connect-error.php",
+                            "text": "mysqli::$connect_error"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.construct.php",
+                            "text": "mysqli::__construct()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.debug.php",
+                            "text": "mysqli::debug()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.dump-debug-info.php",
+                            "text": "mysqli::dump_debug_info()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.errno.php",
+                            "text": "mysqli::$errno"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.error-list.php",
+                            "text": "mysqli::$error_list"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.error.php",
+                            "text": "mysqli::$error"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.field-count.php",
+                            "text": "mysqli::$field_count"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.get-charset.php",
+                            "text": "mysqli::get_charset()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.get-client-info.php",
+                            "text": "mysqli::get_client_info()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.get-client-stats.php",
+                            "text": "mysqli_get_client_stats()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.get-client-version.php",
+                            "text": "mysqli_get_client_version()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.get-connection-stats.php",
+                            "text": "mysqli::get_connection_stats()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.get-host-info.php",
+                            "text": "mysqli::$host_info"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.get-proto-info.php",
+                            "text": "mysqli::$protocol_version"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.get-server-info.php",
+                            "text": "mysqli::$server_info"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.get-server-version.php",
+                            "text": "mysqli::$server_version"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.get-warnings.php",
+                            "text": "mysqli::get_warnings()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.info.php",
+                            "text": "mysqli::$info"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.init.php",
+                            "text": "mysqli::init()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.insert-id.php",
+                            "text": "mysqli::$insert_id"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.kill.php",
+                            "text": "mysqli::kill()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.more-results.php",
+                            "text": "mysqli::more_results()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.multi-query.php",
+                            "text": "mysqli::multi_query()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.next-result.php",
+                            "text": "mysqli::next_result()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.options.php",
+                            "text": "mysqli::options()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.ping.php",
+                            "text": "mysqli::ping()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.poll.php",
+                            "text": "mysqli::poll()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.prepare.php",
+                            "text": "mysqli::prepare()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.query.php",
+                            "text": "mysqli::query()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.real-connect.php",
+                            "text": "mysqli::real_connect()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.real-escape-string.php",
+                            "text": "mysqli::real_escape_string()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.real-query.php",
+                            "text": "mysqli::real_query()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.reap-async-query.php",
+                            "text": "mysqli::reap_async_query()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.refresh.php",
+                            "text": "mysqli::refresh()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.rollback.php",
+                            "text": "mysqli::rollback()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.rpl-query-type.php",
+                            "text": "mysqli::rpl_query_type()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.select-db.php",
+                            "text": "mysqli::select_db()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.send-query.php",
+                            "text": "mysqli::send_query()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.set-charset.php",
+                            "text": "mysqli::set_charset()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.set-local-infile-default.php",
+                            "text": "mysqli::set_local_infile_default()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.set-local-infile-handler.php",
+                            "text": "mysqli::set_local_infile_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.sqlstate.php",
+                            "text": "mysqli::$sqlstate"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.ssl-set.php",
+                            "text": "mysqli::ssl_set()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.stat.php",
+                            "text": "mysqli::stat()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.stmt-init.php",
+                            "text": "mysqli::stmt_init()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.store-result.php",
+                            "text": "mysqli::store_result()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.thread-id.php",
+                            "text": "mysqli::$thread_id"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.thread-safe.php",
+                            "text": "mysqli::thread_safe()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.use-result.php",
+                            "text": "mysqli::use_result()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli.warning-count.php",
+                            "text": "mysqli::$warning_count"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "MySQLi Stmt Class",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.affected-rows.php",
+                            "text": "mysqli_stmt::$affected_rows"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.attr-get.php",
+                            "text": "mysqli_stmt::attr_get()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.attr-set.php",
+                            "text": "mysqli_stmt::attr_set()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.bind-param.php",
+                            "text": "mysqli_stmt::bind_param()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.bind-result.php",
+                            "text": "mysqli_stmt::bind_result()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.close.php",
+                            "text": "mysqli_stmt::close()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.data-seek.php",
+                            "text": "mysqli_stmt::data_seek()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.errno.php",
+                            "text": "mysqli_stmt::$errno"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.error-list.php",
+                            "text": "mysqli_stmt::$error_list"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.error.php",
+                            "text": "mysqli_stmt::$error"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.execute.php",
+                            "text": "mysqli_stmt::execute()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.fetch.php",
+                            "text": "mysqli_stmt::fetch()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.field-count.php",
+                            "text": "mysqli_stmt::$field_count"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.free-result.php",
+                            "text": "mysqli_stmt::free_result()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.get-result.php",
+                            "text": "mysqli_stmt::get_result()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.get-warnings.php",
+                            "text": "mysqli_stmt::get_warnings()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.insert-id.php",
+                            "text": "mysqli_stmt::$insert_id"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.more-results.php",
+                            "text": "mysqli_stmt::more_results()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.next-result.php",
+                            "text": "mysqli_stmt::next_result()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.num-rows.php",
+                            "text": "mysqli_stmt::$num_rows"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.param-count.php",
+                            "text": "mysqli_stmt::$param_count"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.prepare.php",
+                            "text": "mysqli_stmt::prepare()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.reset.php",
+                            "text": "mysqli_stmt::reset()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.result-metadata.php",
+                            "text": "mysqli_stmt::result_metadata()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.send-long-data.php",
+                            "text": "mysqli_stmt::send_long_data()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.sqlstate.php",
+                            "text": "mysqli_stmt::$sqlstate"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-stmt.store-result.php",
+                            "text": "mysqli_stmt::store_result()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "MySQLi Result Class",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.current-field.php",
+                            "text": "mysqli_result::$current_field"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.data-seek.php",
+                            "text": "mysqli_result::data_seek()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.fetch-all.php",
+                            "text": "mysqli_result::fetch_all()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.fetch-array.php",
+                            "text": "mysqli_result::fetch_array()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.fetch-assoc.php",
+                            "text": "mysqli_result::fetch_assoc()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.fetch-field-direct.php",
+                            "text": "mysqli_result::fetch_field_direct()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.fetch-field.php",
+                            "text": "mysqli_result::fetch_field()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.fetch-fields.php",
+                            "text": "mysqli_result::fetch_fields()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.fetch-object.php",
+                            "text": "mysqli_result::fetch_object()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.fetch-row.php",
+                            "text": "mysqli_result::fetch_row()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.field-count.php",
+                            "text": "mysqli_result::$field_count"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.field-seek.php",
+                            "text": "mysqli_result::field_seek()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.free.php",
+                            "text": "mysqli_result::free()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.lengths.php",
+                            "text": "mysqli_result::$lengths"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-result.num-rows.php",
+                            "text": "mysqli_result::$num_rows"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "MySQLi Driver Class",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/mysqli-driver.embedded-server-end.php",
+                            "text": "mysqli_driver::embedded_server_end()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-driver.embedded-server-start.php",
+                            "text": "mysqli_driver::embedded_server_start()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-driver.report-mode.php",
+                            "text": "mysqli_driver::$report_mode"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/class.mysqli-driver.php",
+                            "text": "mysqli_driver::$client_info"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/class.mysqli-driver.php",
+                            "text": "mysqli_driver::$client_version"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/class.mysqli-driver.php",
+                            "text": "mysqli_driver::$driver_version"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/class.mysqli-driver.php",
+                            "text": "mysqli_driver::$embedded"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/class.mysqli-driver.php",
+                            "text": "mysqli_driver::$reconnect"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/class.mysqli-driver.php",
+                            "text": "mysqli_driver::$report_mode"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "MySQLi Warning Class",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/mysqli-warning.construct.php",
+                            "text": "mysqli_warning::__construct()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/mysqli-warning.next.php",
+                            "text": "mysqli_warning::next()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/class.mysqli-warning.php",
+                            "text": "mysqli_warning::$message"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/class.mysqli-warning.php",
+                            "text": "mysqli_warning::$sqlstate"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/class.mysqli-warning.php",
+                            "text": "mysqli_warning::$errno"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "MySQL Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "SimpleXML",
+            "items": [
+                {
+                    "board_title": "SimpleXML Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.construct.php",
+                            "text": "__construct()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.addattribute.php",
+                            "text": "addAttribute()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.addchild.php",
+                            "text": "addChild()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.asxml.php",
+                            "text": "asXML()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.attributes.php",
+                            "text": "attributes()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.children.php",
+                            "text": "children()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.getdocnamespaces.php",
+                            "text": "getDocNamespaces()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.getname.php",
+                            "text": "getName()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.getnamespaces.php",
+                            "text": "getNamespace()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.registerxpathnamespace.php",
+                            "text": "registerXPathNamespace()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.simplexml-import-dom.php",
+                            "text": "simplexml_import_dom()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.simplexml-load-file.php",
+                            "text": "simplexml_load_file()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.simplexml-load-string.php",
+                            "text": "simplexml_load_string()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/simplexmlelement.xpath.php",
+                            "text": "xpath()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "XML Parser",
+            "items": [
+                {
+                    "board_title": "XML Parser Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.utf8-decode.php",
+                            "text": "utf8_decode()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.utf8-encode.php",
+                            "text": "utf8_encode()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-error-string.php",
+                            "text": "xml_error_string()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-get-current-byte-index.php",
+                            "text": "xml_get_current_byte_index()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-get-current-column-number.php",
+                            "text": "xml_get_current_column_number()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-get-current-line-number.php",
+                            "text": "xml_get_current_line_number()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-get-error-code.php",
+                            "text": "xml_get_error_code()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-parse.php",
+                            "text": "xml_parse()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-parse-into-struct.php",
+                            "text": "xml_parse_into_struct()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-parser-create-ns.php",
+                            "text": "xml_parser_create_ns()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-parser-create.php",
+                            "text": "xml_parser_create()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-parser-free.php",
+                            "text": "xml_parser_free()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-parser-get-option.php",
+                            "text": "xml_parser_get_option()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-parser-set-option.php",
+                            "text": "xml_parser_set_option()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-set-character-data-handler.php",
+                            "text": "xml_set_character_data_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-set-default-handler.php",
+                            "text": "xml_set_default_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-set-element-handler.php",
+                            "text": "xml_set_element_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-set-external-entity-ref-handler.php",
+                            "text": "xml_set_external_entity_ref_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-set-notation-decl-handler.php",
+                            "text": "xml_set_notation_decl_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-set-object.php",
+                            "text": "xml_set_object()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-set-processing-instruction-handler.php",
+                            "text": "xml_set_processing_instruction_handler()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.xml-set-unparsed-entity-decl-handler.php",
+                            "text": "xml_set_unparsed_entity_decl_handler()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "XML Parser Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "OOP",
+            "items": [
+                {
+                    "board_title": "Magic Methods",
+                    "links": [
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.decon.php#object.construct",
+                            "text": "__construct()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.decon.php#object.destruct",
+                            "text": "__destruct()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.overloading.php#object.callstatic",
+                            "text": "__callStatic()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.overloading.php#object.call",
+                            "text": "__call()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.overloading.php#object.get",
+                            "text": "__get()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.overloading.php#object.set",
+                            "text": "__set()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.overloading.php#object.isset",
+                            "text": "__isset()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.overloading.php#object.unset",
+                            "text": "__unset()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.magic.php#object.sleep",
+                            "text": "__sleep()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.magic.php#object.wakeup",
+                            "text": "__wakeup()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.magic.php#object.tostring",
+                            "text": "__toString()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.magic.php#object.invoke",
+                            "text": "__invoke()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.magic.php#object.set-state",
+                            "text": "__set_state()"
+                        },
+                        {
+                            "href": "http://www.php.net/manual/en/language.oop5.cloning.php#object.clone",
+                            "text": "__clone()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Zip",
+            "items": [
+                {
+                    "board_title": "Zip Functions",
+                    "links": [
+                        {
+                            "href": "http://php.net/manual/en/function.zip-close.php",
+                            "text": "zip_close()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.zip-entry-close.php",
+                            "text": "zip_entry_close()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.zip-entry-compressedsize.php",
+                            "text": "zip_entry_compressedsize()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.zip-entry-compressionmethod.php",
+                            "text": "zip_entry_compressionmethod()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.zip-entry-filesize.php",
+                            "text": "zip_entry_filesize()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.zip-entry-name.php",
+                            "text": "zip_entry_name()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.zip-entry-open.php",
+                            "text": "zip_entry_open()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.zip-entry-read.php",
+                            "text": "zip_entry_read()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.zip-open.php",
+                            "text": "zip_open()"
+                        },
+                        {
+                            "href": "http://php.net/manual/en/function.zip-read.php",
+                            "text": "zip_read()"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
