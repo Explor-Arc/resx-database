@@ -1,0 +1,70 @@
+{
+    "title": "C",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://en.wikipedia.org/wiki/C_%28programming_language%29",
+                            "text": "Wikipedia C"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "http://www.digilife.be/quickreferences/QRC/C%20Reference%20Card%20%28ANSI%29%202.2.pdf",
+                            "text": "ANSI C Quick Reference Card [.pdf]"
+                        },
+                        {
+                            "href": "http://refcards.com/refcard/ansi-c-silvermanj",
+                            "text": "ANSI C Quick Reference Card"
+                        },
+                        {
+                            "href": "/static/cs/cs/C.Reference.Card.ANSI.2.2.pdf",
+                            "text": "ANSI C Quick Reference Card [backup]"
+                        },
+                        {
+                            "href": "/static/cs/cs/ansi-c-refcard-a4.pdf",
+                            "text": "ANSI C Quick Reference Card [backup]"
+                        },
+                        {
+                            "href": "http://faculty.olin.edu/~jcristatic/cs/Teaching/SigSysWeb/Embedded/c_cheat_sheet.htm",
+                            "text": "ANSI C Quick Reference Card [backup]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/csharp",
+                            "text": "C#"
+                        },
+                        {
+                            "href": "/cpp",
+                            "text": "C++"
+                        },
+                        {
+                            "href": "/gdb",
+                            "text": "GDB"
+                        },
+                        {
+                            "href": "/objective-c",
+                            "text": "Objective-C"
+                        },
+                        {
+                            "href": "/openmp",
+                            "text": "OpenMP"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
