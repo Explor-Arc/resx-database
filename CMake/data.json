@@ -1,0 +1,414 @@
+{
+    "title": "CMake",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://www.cmake.org/",
+                            "text": "Official Website"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html",
+                            "text": "CMake online documentation"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/ctest.html",
+                            "text": "CTest online documentation"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cpack.html",
+                            "text": "CPack online documentation"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Control",
+            "items": [
+                {
+                    "board_title": "Conditionals",
+                    "links": [
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:break",
+                            "text": "break"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:if",
+                            "text": "if"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:else",
+                            "text": "else"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:elseif",
+                            "text": "elseif"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:endif",
+                            "text": "endif"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:foreach",
+                            "text": "foreach"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:endforeach",
+                            "text": "endforeach"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:while",
+                            "text": "while"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:endwhile",
+                            "text": "endwhile"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:endfunction",
+                            "text": "endfunction"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:endmacro",
+                            "text": "endmacro"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:function",
+                            "text": "function"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:macro",
+                            "text": "macro"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:return",
+                            "text": "return"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Targets",
+            "items": [
+                {
+                    "links": [
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:add_compile_options",
+                            "text": "add_compile_options"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:add_custom_command",
+                            "text": "add_custom_command"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:add_custom_target",
+                            "text": "add_custom_target"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:add_definitions",
+                            "text": "add_definitions"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:add_dependencies",
+                            "text": "add_dependencies"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:add_executable",
+                            "text": "add_executable"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:add_library",
+                            "text": "add_library"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:add_subdirectory",
+                            "text": "add_subdirectory"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:add_test",
+                            "text": "add_test"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:configure_file",
+                            "text": "configure_file"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:get_cmake_property",
+                            "text": "get_cmake_property"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:get_directory_property",
+                            "text": "get_directory_property"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:get_filename_component",
+                            "text": "get_filename_component"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:get_property",
+                            "text": "get_property"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:get_source_file_property",
+                            "text": "get_source_file_property"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:get_target_property",
+                            "text": "get_target_property"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:get_test_property",
+                            "text": "get_test_property"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:install",
+                            "text": "install"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:set_directory_properties",
+                            "text": "set_directory_properties"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:set_property",
+                            "text": "set_property"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:set_source_files_properties",
+                            "text": "set_source_files_properties"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:set_target_properties",
+                            "text": "set_target_properties"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:set_tests_properties",
+                            "text": "set_tests_properties"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:target_compile_definitions",
+                            "text": "target_compile_definitions"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:target_compile_options",
+                            "text": "target_compile_options"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:target_include_directories",
+                            "text": "target_include_directories"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:target_link_libraries",
+                            "text": "target_link_libraries"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Locating Resources",
+            "items": [
+                {
+                    "links": [
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:find_file",
+                            "text": "find_file"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:find_library",
+                            "text": "find_library"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:find_package",
+                            "text": "find_package"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:find_path",
+                            "text": "find_path"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:find_program",
+                            "text": "find_program"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:include_directories",
+                            "text": "include_directories"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:include_external_msproject",
+                            "text": "include_external_msproject"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:include_regular_expression",
+                            "text": "include_regular_expression"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Utilities",
+            "items": [
+                {
+                    "links": [
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:define_property",
+                            "text": "define_property"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:file",
+                            "text": "file"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:list",
+                            "text": "list"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:mark_as_advanced",
+                            "text": "mark_as_advanced"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:math",
+                            "text": "math"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:message",
+                            "text": "message"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:option",
+                            "text": "option"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:separate_arguments",
+                            "text": "separate_arguments"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:set",
+                            "text": "set"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:string",
+                            "text": "string"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:unset",
+                            "text": "unset"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "All Other Commands",
+            "items": [
+                {
+                    "links": [
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:aux_source_directory",
+                            "text": "aux_source_directory"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:build_command",
+                            "text": "build_command"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:cmake_host_system_information",
+                            "text": "cmake_host_system_information"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:cmake_minimum_required",
+                            "text": "cmake_minimum_required"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:cmake_policy",
+                            "text": "cmake_policy"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:create_test_sourcelist",
+                            "text": "create_test_sourcelist"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:enable_language",
+                            "text": "enable_language"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:enable_testing",
+                            "text": "enable_testing"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:execute_process",
+                            "text": "execute_process"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:export",
+                            "text": "export"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:fltk_wrap_ui",
+                            "text": "fltk_wrap_ui"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:include",
+                            "text": "include"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:link_directories",
+                            "text": "link_directories"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:load_cache",
+                            "text": "load_cache"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:load_command",
+                            "text": "load_command"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:project",
+                            "text": "project"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:qt_wrap_cpp",
+                            "text": "qt_wrap_cpp"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:qt_wrap_ui",
+                            "text": "qt_wrap_ui"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:remove_definitions",
+                            "text": "remove_definitions"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:site_name",
+                            "text": "site_name"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:source_group",
+                            "text": "source_group"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:try_compile",
+                            "text": "try_compile"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:try_run",
+                            "text": "try_run"
+                        },
+                        {
+                            "href": "http://www.cmake.org/cmake/help/v2.8.12/cmake.html#command:variable_watch",
+                            "text": "variable_watch"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
