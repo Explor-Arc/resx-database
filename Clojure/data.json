@@ -1,0 +1,54 @@
+{
+    "title": "Clojure",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://clojure.org/cheatsheet",
+                            "text": "Official website's cheat sheet"
+                        },
+                        {
+                            "href": "http://clojure.org/",
+                            "text": "Official website"
+                        },
+                        {
+                            "href": "http://ru.wikipedia.org/wiki/Clojure",
+                            "text": "Wikipedia: Clojure"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "http://refcardz.dzone.com/refcardz/functional-programming-clojure",
+                            "text": "Functional Programming with Clojure Simple Concurrency on the JVM [.pdf]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/erlang",
+                            "text": "Erlang"
+                        },
+                        {
+                            "href": "/haskell",
+                            "text": "Haskell"
+                        },
+                        {
+                            "href": "/ocaml",
+                            "text": "OCaml"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
