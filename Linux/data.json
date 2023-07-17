@@ -1,0 +1,196 @@
+{
+    "title": "Linux Command Line",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://www.linux.org/",
+                            "text": "Official Website"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "http://www.pixelbeat.org/cmdline.html",
+                            "text": "Linux Command Line Tips"
+                        },
+                        {
+                            "href": "/static/cs/fwunixref.pdf",
+                            "text": "Unix/Linux Command Cheat Sheet [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/linux_quickref.pdf",
+                            "text": "Linux Administrator's Quick Reference [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/CliCommandsFull.jpg",
+                            "text": "Command Line Interface Commands [.jpg]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/chmod",
+                            "text": "chmod"
+                        },
+                        {
+                            "href": "/debian",
+                            "text": "Debian"
+                        },
+                        {
+                            "href": "/fedora",
+                            "text": "Fedora"
+                        },
+                        {
+                            "href": "/redhat",
+                            "text": "Red Hat"
+                        },
+                        {
+                            "href": "/ubuntu",
+                            "text": "Ubuntu"
+                        },
+                        {
+                            "href": "/unix",
+                            "text": "Unix"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Bash Commands",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Bash Shortcuts",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Bash Variables",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "IO Redirection",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Pipes",
+            "items": [
+                {
+                    "board_title": "Anchros",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Command Lists",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Directory Operations",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "ls Options",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Search Files",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "File Operations",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Process Management",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Nano Shortcuts",
+            "items": [
+                {
+                    "board_title": "Files",
+                    "links": []
+                },
+                {
+                    "board_title": "Images",
+                    "links": []
+                },
+                {
+                    "board_title": "Navigate File",
+                    "links": []
+                },
+                {
+                    "board_title": "Search File",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Screen Shortcuts",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "File Permissions",
+            "items": [
+                {
+                    "links": []
+                }
+            ]
+        }
+    ]
+}
