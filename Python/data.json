@@ -1,0 +1,1025 @@
+{
+    "title": "Python",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://www.python.org/",
+                            "text": "Official Website"
+                        },
+                        {
+                            "href": "https://www.pythonforbeginners.com/",
+                            "text": "PythonForBeginners.com"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "/static/cs/PQRC-2.4-A4-latest.pdf",
+                            "text": "Python Quick Reference Card [.pdf]"
+                        },
+                        {
+                            "href": "http://rgruet.free.fr/PQR26/PQR2.6.html",
+                            "text": "Python 2.6 Quick Reference"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/django",
+                            "text": "Django"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "String",
+            "items": [
+                {
+                    "board_title": "String Methods",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.capitalize",
+                            "text": "capitalize()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.center",
+                            "text": "center(width[, fillchar])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.count",
+                            "text": "count(sub[, start[, end]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.decode",
+                            "text": "decode"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.encode",
+                            "text": "encode([encoding[, errors]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.endswith",
+                            "text": "endswith(suffix[, start[, end]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.expandtabs",
+                            "text": "expandtabs([tabsize])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.find",
+                            "text": "find(sub[, start[, end]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.format",
+                            "text": "format(*args, **kwargs)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.index",
+                            "text": "index(sub[, start[, end]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.isalnum",
+                            "text": "isalnum()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.isalpha",
+                            "text": "isalpha()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.isdigit",
+                            "text": "isdigit()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.islower",
+                            "text": "islower()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.isspace",
+                            "text": "isspace()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.istitle",
+                            "text": "istitle()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.isupper",
+                            "text": "isupper()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.join",
+                            "text": "join(iterable)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.ljust",
+                            "text": "ljust(width[, fillchar])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.lower",
+                            "text": "lower()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.lstrip",
+                            "text": "lstrip([chars])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.partition",
+                            "text": "partition(sep)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.replace",
+                            "text": "replace(old, new[, count])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.rfind",
+                            "text": "rfind(sub[, start[, end]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.rindex",
+                            "text": "rindex(sub[, start[, end]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.rjust",
+                            "text": "rjust(width[, fillchar])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.rpartition",
+                            "text": "rpartition(sep)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.rsplit",
+                            "text": "rsplit([sep[, maxsplit]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.rstrip",
+                            "text": "rstrip([chars])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.split",
+                            "text": "split([sep[, maxsplit]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.splitlines",
+                            "text": "splitlines([keepends])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.startswith",
+                            "text": "startswith(prefix[, start[, end]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.strip",
+                            "text": "strip([chars])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.swapcase",
+                            "text": "swapcase"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.title",
+                            "text": "title()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.translate",
+                            "text": "translate(table[, deletechars])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.upper",
+                            "text": "upper()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#str.zfill",
+                            "text": "zfill(width)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#unicode.isnumeric",
+                            "text": "isnumeric()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#unicode.isdecimal",
+                            "text": "isdecimal()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "File",
+            "items": [
+                {
+                    "board_title": "Methods",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.close",
+                            "text": "close()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.flush",
+                            "text": "flush()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.fileno",
+                            "text": "fileno()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.isatty",
+                            "text": "isatty()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.next",
+                            "text": "next()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.read",
+                            "text": "read([size])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.readline",
+                            "text": "readline([size])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.readlines",
+                            "text": "readlines([sizehint])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.xreadlines",
+                            "text": "xreadlines()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.seek",
+                            "text": "seek(offset[, whence])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.tell",
+                            "text": "tell()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.truncate",
+                            "text": "truncate([size])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.write",
+                            "text": "write(str)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.writelines",
+                            "text": "writelines(sequence)"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Attributes",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.closed",
+                            "text": "closed"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.encoding",
+                            "text": "encoding"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.errors",
+                            "text": "errors"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.mode",
+                            "text": "mode"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.name",
+                            "text": "name"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.newlines",
+                            "text": "newlines"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#file.softspace",
+                            "text": "softspace"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Set & Mapping",
+            "items": [
+                {
+                    "board_title": "Set Types",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.isdisjoint",
+                            "text": "isdisjoint(other)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.issubset",
+                            "text": "issubset(others)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.issuperset",
+                            "text": "issuperset"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.union",
+                            "text": "union(other...)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.intersection",
+                            "text": "intersection(other, ...)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.difference",
+                            "text": "difference(other...)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.symmetric_difference",
+                            "text": "symmetric_difference(other)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.copy",
+                            "text": "copy()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.update",
+                            "text": "update()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.intersection_update",
+                            "text": "intersection_update()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.difference_update",
+                            "text": "difference_update()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.symmetric_difference_update",
+                            "text": "symmetric_difference_update()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.add",
+                            "text": "add(elem)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.remove",
+                            "text": "remove()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.discard",
+                            "text": "discard(elem)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.pop",
+                            "text": "pop()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#set.clear",
+                            "text": "clear()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Mapping Types",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.clear",
+                            "text": "clear()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.copy",
+                            "text": "copy()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.fromkeys",
+                            "text": "fromkeys(seq[, value])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.get",
+                            "text": "get(key[, default])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.has_key",
+                            "text": "has_key(key)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.items",
+                            "text": "items()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.iteritems",
+                            "text": "iteritems()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.iterkeys",
+                            "text": "iterkeys()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.itervalues",
+                            "text": "itervalues()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.keys",
+                            "text": "keys()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.pop",
+                            "text": "pop(key[, default])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.popitem",
+                            "text": "popitem()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.setdefault",
+                            "text": "setdefault(key[, default])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.update",
+                            "text": "update([other])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/stdtypes.html#dict.values",
+                            "text": "values"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Date Time",
+            "items": [
+                {
+                    "board_title": "Date Object",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.date.replace",
+                            "text": "replace((year, month, day))"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.date.timetuple",
+                            "text": "timetuple()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.date.toordinal",
+                            "text": "toordinal()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.date.weekday",
+                            "text": "weekday()()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.date.isoweekday",
+                            "text": "isoweekday()()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.date.isocalendar",
+                            "text": "isocalendar()()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.date.isoformat",
+                            "text": "isoformat()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.date.__str__",
+                            "text": "__str__()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.date.ctime",
+                            "text": "ctime()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.date.strftime",
+                            "text": "strftime()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Datetime Object",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.date",
+                            "text": "date()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.time",
+                            "text": "time()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.timetz",
+                            "text": "timetz()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.replace",
+                            "text": "replace([year[, month[, day[, hour[, minute[, second[, microsecond[, tzinfo]]]]]]]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.astimezone",
+                            "text": "astimezone(tz)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.utcoffset",
+                            "text": "utcoffset()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.dst",
+                            "text": "dst()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.tzname",
+                            "text": "tzname()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.timetuple",
+                            "text": "timetuple()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.utctimetuple",
+                            "text": "utctimetuple()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.toordinal",
+                            "text": "toordinal()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.weekday",
+                            "text": "weekday()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.isoweekday",
+                            "text": "isoweekday()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.isocalendar",
+                            "text": "isocalendar()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.isoformat",
+                            "text": "isoformat()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.__str__",
+                            "text": "__str__()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.ctime",
+                            "text": "ctime()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.datetime.strftime",
+                            "text": "strftime()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Time Object",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.time.replace",
+                            "text": "replace([hour[, minute[, second[, microsecond[, tzinfo]]]]])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.time.isoformat",
+                            "text": "isoformat()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.time.__str__",
+                            "text": "__str__()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.time.strftime",
+                            "text": "strftime()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.time.utcoffset",
+                            "text": "utcoffset()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.time.dst",
+                            "text": "dst()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/datetime.html#datetime.time.tzname",
+                            "text": "tzname()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Array",
+            "items": [
+                {
+                    "board_title": "Array Methods",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.append",
+                            "text": "append(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.buffer_info",
+                            "text": "buffer_info()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.byteswap",
+                            "text": "byteswap()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.count",
+                            "text": "count(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.extend",
+                            "text": "extend(iterable)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.fromfile",
+                            "text": "fromfile(f,n)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.fromlist",
+                            "text": "fromlist(list)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.fromstring",
+                            "text": "fromstring(s)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.fromunicode",
+                            "text": "fromunicode(s)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.index",
+                            "text": "index(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.insert",
+                            "text": "insert(i,x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.pop",
+                            "text": "pop([i])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.remove",
+                            "text": "remove(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.reverse",
+                            "text": "reverse()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.tofile",
+                            "text": "tofile(f)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.tolist",
+                            "text": "tolist()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.tostring",
+                            "text": "tostring()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/array.html#array.array.tounicode",
+                            "text": "tounicode()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Indexes and Slices",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Math",
+            "items": [
+                {
+                    "board_title": "Number Theoretic",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.ceil",
+                            "text": "ceil(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.copysign",
+                            "text": "copysign(x,y)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.fabs",
+                            "text": "fabs(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.factorial",
+                            "text": "factorial(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.floor",
+                            "text": "floor(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.fmod",
+                            "text": "fmod(x,y)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.frexp",
+                            "text": "frexp(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.fsum",
+                            "text": "fsum(iterable)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.isinf",
+                            "text": "isinf(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.isnan",
+                            "text": "isnan(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.ldexp",
+                            "text": "ldexp(x,i)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.modf",
+                            "text": "modf()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.trunc",
+                            "text": "trunc()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Power and Logarithmic",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.exp",
+                            "text": "exp(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.log",
+                            "text": "log(x[,base])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.log1p",
+                            "text": "log1p(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.log10",
+                            "text": "log10(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.pow",
+                            "text": "pow(x,y)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.sqrt",
+                            "text": "sqrt(x)"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Trigonometric Functions",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.acos",
+                            "text": "acos(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.asin",
+                            "text": "asin(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.atan",
+                            "text": "atan(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.atan2",
+                            "text": "atan2(y,x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.cos",
+                            "text": "cos(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.hypot",
+                            "text": "hypot(x,y)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.sin",
+                            "text": "sin(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.tan",
+                            "text": "tan(x)"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Angular Conversion",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.degrees",
+                            "text": "degrees(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.radians",
+                            "text": "radians(x)"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Hyperbolic Functions",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.acosh",
+                            "text": "acosh(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.asinh",
+                            "text": "asinh(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.atanh",
+                            "text": "atanh(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.cosh",
+                            "text": "cosh(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.sinh",
+                            "text": "sinh(x)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/math.html#math.tanh",
+                            "text": "tanh(x)"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Constants",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Random",
+            "items": [
+                {
+                    "board_title": "Functions",
+                    "links": [
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.seed",
+                            "text": "seed([x])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.getstate",
+                            "text": "getstate()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.setstate",
+                            "text": "setstate(state)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.jumpahead",
+                            "text": "jumpahead(n)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.getrandbits",
+                            "text": "getrandbits(k)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.randrange",
+                            "text": "randrange([start], stop[, step])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.randint",
+                            "text": "randint(a,b)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.choice",
+                            "text": "choice(seq)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.shuffle",
+                            "text": "shuffle(x[,random])"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.sample",
+                            "text": "sample(population,k)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.random",
+                            "text": "random()"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.uniform",
+                            "text": "uniform(a,b)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.triangular",
+                            "text": "triangular(low,high,mode)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.betavariate",
+                            "text": "betavariate(alpha,beta)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.expovariate",
+                            "text": "expovariate(lambd)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.gammavariate",
+                            "text": "gammavariate(alpha,beta)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.gauss",
+                            "text": "gauss(mu,sigma)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.lognormvariate",
+                            "text": "lognormvariate(mu,sigma)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.normalvariate",
+                            "text": "normalvariate(mu,sigma)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.vonmisesvariate",
+                            "text": "vonmisesvariate(mu,kappa)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.paretovariate",
+                            "text": "paretovariate(alpha)"
+                        },
+                        {
+                            "href": "http://docs.python.org/library/random.html#random.weibullvariate",
+                            "text": "weibullvariate(alpha,beta)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Sys",
+            "items": [
+                {
+                    "board_title": "Sys Variables",
+                    "links": []
+                },
+                {
+                    "board_title": "sys.argv",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "OS",
+            "items": [
+                {
+                    "board_title": "os Variables",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Class",
+            "items": [
+                {
+                    "board_title": "Special Methods",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "String Formatting",
+            "items": [
+                {
+                    "board_title": "Formatting Operations",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Date Formatting",
+            "items": [
+                {
+                    "board_title": "Date Formatting",
+                    "links": []
+                }
+            ]
+        }
+    ]
+}
