@@ -1,0 +1,82 @@
+{
+    "title": ".NET",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://www.microsoft.com/net/",
+                            "text": "Official Website"
+                        },
+                        {
+                            "href": "http://en.wikipedia.org/wiki/Microsoft_.NET",
+                            "text": "Wikipedia .NET"
+                        },
+                        {
+                            "href": "http://regexlib.com/CheatSheet.aspx",
+                            "text": ".NET Regular Expression Cheat Sheet"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "http://refcardz.dzone.com/refcardz/coredotnet",
+                            "text": "Core .NET by Jon Skeet [.pdf]"
+                        },
+                        {
+                            "href": "http://john-sheehan.com/blog/wp-content/uploads/msnet-formatting-strings.pdf",
+                            "text": ".NET Format String Quick Referencee [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/msnet-formatting-strings.pdf",
+                            "text": ".NET Format String Quick Referencee [Backup]"
+                        },
+                        {
+                            "href": "/static/cs/NETFX4-Poster.pdf",
+                            "text": ".NET Framework 4 and Extensions [.pdf]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/ado-net",
+                            "text": "ADO.NET"
+                        },
+                        {
+                            "href": "/asp",
+                            "text": "ASP"
+                        },
+                        {
+                            "href": "/csharp",
+                            "text": "C#"
+                        },
+                        {
+                            "href": "/mfc",
+                            "text": "MFC"
+                        },
+                        {
+                            "href": "/sandcastle",
+                            "text": "Sandcastle"
+                        },
+                        {
+                            "href": "/visual-basic",
+                            "text": "Visual Basic"
+                        },
+                        {
+                            "href": "/windows-communication-foundation",
+                            "text": "Windows Communication Foundation"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
