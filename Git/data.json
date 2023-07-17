@@ -1,0 +1,271 @@
+{
+    "title": "Git",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://git-scm.com/",
+                            "text": "Official Website"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "/static/cs/git-cheat-sheet.pdf",
+                            "text": "GitCheatSheet [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/git-cheat-sheet-v2-back.svg",
+                            "text": "Git cheat sheet, extended edition prepared [.svg]"
+                        },
+                        {
+                            "href": "/static/cs/Git_Quick_Reference.2011-09-04.pdf",
+                            "text": "Git Quick Reference [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/git-cn.jpg",
+                            "text": "Git Cheat Sheet In Chinese"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/bazaar",
+                            "text": "Bazaar"
+                        },
+                        {
+                            "href": "/cvs",
+                            "text": "CVS"
+                        },
+                        {
+                            "href": "/svn",
+                            "text": "SVN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Create Git",
+            "items": [
+                {
+                    "board_title": "From existing directory",
+                    "links": []
+                },
+                {
+                    "board_title": "From other repository",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Local Changes",
+            "items": [
+                {
+                    "board_title": "Changed in working directory",
+                    "links": []
+                },
+                {
+                    "board_title": "Tracked file changes",
+                    "links": []
+                },
+                {
+                    "board_title": "Add changed files",
+                    "links": []
+                },
+                {
+                    "board_title": "Remove file",
+                    "links": []
+                },
+                {
+                    "board_title": "See files ready for commit",
+                    "links": []
+                },
+                {
+                    "board_title": "Commit changes",
+                    "links": []
+                },
+                {
+                    "board_title": "Change last commit",
+                    "links": []
+                },
+                {
+                    "board_title": "Revert changes to file",
+                    "links": []
+                },
+                {
+                    "board_title": "Revert changes (new commit)",
+                    "links": []
+                },
+                {
+                    "board_title": "Return to last committed state",
+                    "links": []
+                },
+                {
+                    "links": []
+                },
+                {
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "History",
+            "items": [
+                {
+                    "board_title": "Show all commits",
+                    "links": []
+                },
+                {
+                    "board_title": "Short Format",
+                    "links": []
+                },
+                {
+                    "board_title": "Patches",
+                    "links": []
+                },
+                {
+                    "board_title": "Show file commits",
+                    "links": []
+                },
+                {
+                    "board_title": "Show directory commits",
+                    "links": []
+                },
+                {
+                    "board_title": "Stats",
+                    "links": []
+                },
+                {
+                    "board_title": "Who changed file",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Merge/Rebase",
+            "items": [
+                {
+                    "board_title": "Merge branch into current",
+                    "links": []
+                },
+                {
+                    "board_title": "Rebase into branch",
+                    "links": []
+                },
+                {
+                    "board_title": "Abort rebase",
+                    "links": []
+                },
+                {
+                    "board_title": "Merge tool to solve conflicts",
+                    "links": []
+                },
+                {
+                    "board_title": "To view the merge conflicts",
+                    "links": []
+                },
+                {
+                    "board_title": "To discard conflicting patch",
+                    "links": []
+                },
+                {
+                    "board_title": "After resolving conflicts",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Remote Update / Publish",
+            "items": [
+                {
+                    "board_title": "List remotes",
+                    "links": []
+                },
+                {
+                    "board_title": "Show information",
+                    "links": []
+                },
+                {
+                    "board_title": "Add remote",
+                    "links": []
+                },
+                {
+                    "board_title": "Fetch changes",
+                    "links": []
+                },
+                {
+                    "board_title": "Fetch + merge",
+                    "links": []
+                },
+                {
+                    "board_title": "Publish local to remote",
+                    "links": []
+                },
+                {
+                    "board_title": "Delete remote branch",
+                    "links": []
+                },
+                {
+                    "board_title": "Publish tags",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Branching/Tagging",
+            "items": [
+                {
+                    "board_title": "List branches",
+                    "links": []
+                },
+                {
+                    "board_title": "Switch to branch",
+                    "links": []
+                },
+                {
+                    "board_title": "Create new branch",
+                    "links": []
+                },
+                {
+                    "board_title": "Create branch from existing",
+                    "links": []
+                },
+                {
+                    "board_title": "Delete branch",
+                    "links": []
+                },
+                {
+                    "board_title": "Tag current commit",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Useful Commands",
+            "items": [
+                {
+                    "board_title": "Finding Regressions",
+                    "links": []
+                },
+                {
+                    "board_title": "Check for Errors and Cleanup Repository",
+                    "links": []
+                },
+                {
+                    "board_title": "Search Working Directory for foo()",
+                    "links": []
+                }
+            ]
+        }
+    ]
+}
