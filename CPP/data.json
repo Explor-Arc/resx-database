@@ -1,0 +1,138 @@
+{
+    "title": "C++",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://en.wikipedia.org/wiki/C%2B%2B",
+                            "text": "Wikipedia C++"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "http://www.dreamincode.net/downloads/ref_sheets/cpp_reference_sheet.pdf",
+                            "text": "C++ Quick Reference Sheet (Cheat Sheet) [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/cpp_reference_sheet.pdf",
+                            "text": "C++ Quick Reference Sheet (Cheat Sheet) [backup]"
+                        },
+                        {
+                            "href": "http://itp.nyu.edu/compform/c_cheat_sheet.pdf",
+                            "text": "C/C++ Cheat Sheet (v1) by Jared Schiffman [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/c_cheat_sheet.pdf",
+                            "text": "C/C++ Cheat Sheet (v1) by Jared Schiffman [backup]"
+                        },
+                        {
+                            "href": "http://research.cs.queensu.ca/home/cisc124/2004f/C_Cheat.pdf",
+                            "text": "C/C++ Cheat Sheet (For your reference; this sheet will also be included in exams) [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/C_Cheat.pdf",
+                            "text": "C/C++ Cheat Sheet (For your reference; this sheet will also be included in exams) [backup]"
+                        },
+                        {
+                            "href": "http://cs.fit.edu/~mmahoney/cse2050/how2cpp.html",
+                            "text": "How to Program in C++ by Matt Mahoney"
+                        },
+                        {
+                            "href": "http://www.sourcepole.com/sources/programming/cpp/cppqref.html",
+                            "text": "C++ QUICK REFERENCE by Matt Mahoney"
+                        },
+                        {
+                            "href": "http://www.digilife.be/quickreferences/QRC/STL%20Quick%20Reference%201.29.pdf",
+                            "text": "STL Quick Reference 1.29 by Yotam Medini [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/STL%20Quick%20Reference%201.29.pdf",
+                            "text": "STL Quick Reference 1.29 by Yotam Medini [backup]"
+                        },
+                        {
+                            "href": "http://linuxsoftware.co.nz/cppcontainers.html",
+                            "text": "C++ Containers Cheat Sheet"
+                        },
+                        {
+                            "href": "http://www.linuxsoftware.co.nz/cppiterators.html",
+                            "text": "C++ Iterators & Algorithms Cheat Sheet"
+                        },
+                        {
+                            "href": "http://www.linuxsoftware.co.nz/cppstrings.html",
+                            "text": "Shifting from C to C++ strings"
+                        },
+                        {
+                            "href": "http://www.i18nguy.com/unicode/c-unicode.html",
+                            "text": "Cheat Sheet: Unicode-enabling Microsoft C/C++ Source Code"
+                        },
+                        {
+                            "href": "http://en.wikibooks.org/wiki/Understanding_C%2B%2B/Quick_Reference",
+                            "text": "Understanding C++/Quick Reference"
+                        },
+                        {
+                            "href": "http://cpptest.sourceforge.net/",
+                            "text": "CPPTEST CHEATSHEET by Shane McDonald [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/CPPTEST.CHEATSHEET.pdf",
+                            "text": "CPPTEST CHEATSHEET by Shane McDonald [backup]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/dotnet",
+                            "text": ".NET"
+                        },
+                        {
+                            "href": "/asp",
+                            "text": "ASP"
+                        },
+                        {
+                            "href": "/c",
+                            "text": "C"
+                        },
+                        {
+                            "href": "/csharp",
+                            "text": "C#"
+                        },
+                        {
+                            "href": "/gdb",
+                            "text": "GDB"
+                        },
+                        {
+                            "href": "/mfc",
+                            "text": "MFC"
+                        },
+                        {
+                            "href": "/objective-c/",
+                            "text": "Objective-C"
+                        },
+                        {
+                            "href": "/openmp",
+                            "text": "OpenMP"
+                        },
+                        {
+                            "href": "/qt",
+                            "text": "Qt"
+                        },
+                        {
+                            "href": "/visual-basic",
+                            "text": "Visual Basic"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
