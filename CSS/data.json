@@ -1,0 +1,1129 @@
+{
+    "title": "CSS",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://www.w3.org/Style/CSS/",
+                            "text": "Official Website"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "http://www.css.su/",
+                            "text": "CSS in one page [html] (css.su)"
+                        },
+                        {
+                            "href": "/static/cs/css_cheat_sheet.png",
+                            "text": "CSS Cheat Sheet [.png]"
+                        },
+                        {
+                            "href": "/static/cs/css_cheat_sheet.pdf",
+                            "text": "CSS Cheat Sheet [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/CSS1.pdf",
+                            "text": "CSS Level 1 Quick Reference DeepX Ltd [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/css2.pdf",
+                            "text": "CSS Level 2 Quick Reference Benjamin Jung [.pdf]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/blueprint",
+                            "text": "Blueprint"
+                        },
+                        {
+                            "href": "/html-dom",
+                            "text": "HTML DOM"
+                        },
+                        {
+                            "href": "/html",
+                            "text": "HTML"
+                        },
+                        {
+                            "href": "/javascript",
+                            "text": "JavaScript"
+                        },
+                        {
+                            "href": "/selenium",
+                            "text": "Selenium"
+                        },
+                        {
+                            "href": "/xhtml",
+                            "text": "XHTML"
+                        },
+                        {
+                            "href": "/xpath",
+                            "text": "XPath"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Box Model",
+            "items": [
+                {
+                    "board_title": "Margin",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/margin",
+                            "text": "margin"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/margin-bottom",
+                            "text": "margin-bottom"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/margin-left",
+                            "text": "margin-left"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/margin-right",
+                            "text": "margin-right"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/margin-top",
+                            "text": "margin-top"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Padding",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/padding",
+                            "text": "padding"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/padding-bottom",
+                            "text": "padding-bottom"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/padding-left",
+                            "text": "padding-left"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/padding-right",
+                            "text": "padding-right"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/padding-top",
+                            "text": "padding-top"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Dimension",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/height",
+                            "text": "height"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/width",
+                            "text": "width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/max-height",
+                            "text": "max-height"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/max-width",
+                            "text": "max-width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/min-height",
+                            "text": "min-height"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/min-width",
+                            "text": "min-width"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Border and Outline",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border",
+                            "text": "border"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-bottom",
+                            "text": "border-bottom"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-bottom-color",
+                            "text": "border-bottom-color"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-bottom-style",
+                            "text": "border-bottom-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-bottom-width",
+                            "text": "border-bottom-width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-color",
+                            "text": "border-color"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-left",
+                            "text": "border-left"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-left-color",
+                            "text": "border-left-color"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-left-style",
+                            "text": "border-left-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-left-width",
+                            "text": "border-left-width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-right",
+                            "text": "border-right"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-right-color",
+                            "text": "border-right-color"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-right-style",
+                            "text": "border-right-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-right-width",
+                            "text": "border-right-width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-style",
+                            "text": "border-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-top",
+                            "text": "border-top"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-top-color",
+                            "text": "border-top-color"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-top-style",
+                            "text": "border-top-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-top-width",
+                            "text": "border-top-width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-width",
+                            "text": "border-width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/outline",
+                            "text": "outline"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/outline-color",
+                            "text": "outline-color"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/outline-style",
+                            "text": "outline-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/outline-width",
+                            "text": "outline-width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-bottom-left-radius",
+                            "text": "border-bottom-left-radius"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-bottom-right-radius",
+                            "text": "border-bottom-right-radius"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-image",
+                            "text": "border-image"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-image-outset",
+                            "text": "border-image-outset"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-image-repeat",
+                            "text": "border-image-repeat"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-image-slice",
+                            "text": "border-image-slice"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-image-source",
+                            "text": "border-image-source"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-image-width",
+                            "text": "border-image-width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-radius",
+                            "text": "border-radius"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-top-left-radius",
+                            "text": "border-top-left-radius"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-top-right-radius",
+                            "text": "border-top-right-radius"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-decoration-break",
+                            "text": "box-decoration-break"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-shadow",
+                            "text": "box-shadow"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Selectors",
+            "items": [
+                {
+                    "board_title": "Basic Selectors",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Class_selectors",
+                            "text": ".class"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/ID_selectors",
+                            "text": "#id"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Universal_selectors",
+                            "text": "*"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Type_selectors",
+                            "text": "element"
+                        },
+                        {
+                            "href": "http://www.w3schools.com/cssref/sel_element_comma.asp",
+                            "text": "element,element"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Descendant_selectors",
+                            "text": "element element"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Child_selectors",
+                            "text": "element>element"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Adjacent_sibling_selectors",
+                            "text": "element+element"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Attribute_selectors",
+                            "text": "[attribute]"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Attribute_selectors",
+                            "text": "[attribute=value]"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Attribute_selectors",
+                            "text": "[attribute~=value]"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Attribute_selectors",
+                            "text": "[attribute|=value]"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Attribute_selectors",
+                            "text": "element1~element2"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/Attribute_selectors",
+                            "text": "[attribute^=value]"
+                        },
+                        {
+                            "href": "http://www.w3schools.com/cssref/sel_attr_end.asp",
+                            "text": "[attribute$=value]"
+                        },
+                        {
+                            "href": "http://www.w3schools.com/cssref/sel_attr_contain.asp",
+                            "text": "[attribute*=value]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Pseudo-Selectors",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:link",
+                            "text": ":link"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:visited",
+                            "text": ":visited"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:active",
+                            "text": ":active"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:hover",
+                            "text": ":hover"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:focus",
+                            "text": ":focus"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/::first-letter",
+                            "text": ":first-letter"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/::first-line",
+                            "text": ":first-line"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:first-child",
+                            "text": ":first-child"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:before",
+                            "text": ":before"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:after",
+                            "text": ":after"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:lang",
+                            "text": ":lang(language)"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:first-of-type",
+                            "text": ":first-of-type"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:last-of-type",
+                            "text": ":last-of-type"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:only-of-type",
+                            "text": ":only-of-type"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:only-child",
+                            "text": ":only-child"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:nth-child",
+                            "text": ":nth-child(n)"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:nth-last-child",
+                            "text": ":nth-last-child(n)"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:nth-of-type",
+                            "text": ":nth-of-type(n)"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:last-child",
+                            "text": ":last-child"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/Web/CSS/:not",
+                            "text": ":not"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:root",
+                            "text": ":root"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:empty",
+                            "text": ":empty"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:target",
+                            "text": ":target"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:enabled",
+                            "text": ":enabled"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:disabled",
+                            "text": ":disabled"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/:checked",
+                            "text": ":checked"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/::selection",
+                            "text": "::selection"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Style",
+            "items": [
+                {
+                    "board_title": "Background",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/background",
+                            "text": "background"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/background-attachment",
+                            "text": "background-attachment"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/background-color",
+                            "text": "background-color"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/background-image",
+                            "text": "background-image"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/background-position",
+                            "text": "background-position"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/background-repeat",
+                            "text": "background-repeat"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/background-clip",
+                            "text": "background-clip"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/background-origin",
+                            "text": "background-origin"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/background-size",
+                            "text": "background-size"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Color",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/opacity",
+                            "text": "opacity"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Font",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/font",
+                            "text": "font"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/font-family",
+                            "text": "font-family"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/font-size",
+                            "text": "font-size"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/font-style",
+                            "text": "font-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/font-variant",
+                            "text": "font-variant"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/font-weight",
+                            "text": "font-weight"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/@font-face",
+                            "text": "@font-face"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/font-size-adjust",
+                            "text": "font-size-adjust"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/font-stretch",
+                            "text": "font-stretch"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Positioning",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/bottom",
+                            "text": "bottom"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/clear",
+                            "text": "clear"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/clip",
+                            "text": "clip"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/cursor",
+                            "text": "cursor"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/display",
+                            "text": "display"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/float",
+                            "text": "float"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/left",
+                            "text": "left"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/overflow",
+                            "text": "overflow"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/position",
+                            "text": "position"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/right",
+                            "text": "right"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/top",
+                            "text": "top"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/visibility",
+                            "text": "visibility"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/z-index",
+                            "text": "z-index"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Elements",
+            "items": [
+                {
+                    "board_title": "Hyperlink",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/HTML/Element/a",
+                            "text": "target"
+                        },
+                        {
+                            "href": "http://w3schools.com/cssref/css3_pr_target-name.asp",
+                            "text": "target-name"
+                        },
+                        {
+                            "href": "http://w3schools.com/cssref/css3_pr_target-new.asp",
+                            "text": "target-new"
+                        },
+                        {
+                            "href": "http://w3schools.com/cssref/css3_pr_target-position.asp",
+                            "text": "target-position"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Text",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/color",
+                            "text": "color"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/direction",
+                            "text": "direction"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/letter-spacing",
+                            "text": "letter-spacing"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/line-height",
+                            "text": "line-height"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/text-align",
+                            "text": "text-align"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/text-decoration",
+                            "text": "text-decoration"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/text-indent",
+                            "text": "text-indent"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/text-transform",
+                            "text": "text-transform"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/unicode-bidi",
+                            "text": "unicode-bidi"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/vertical-align",
+                            "text": "vertical-align"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/white-space",
+                            "text": "white-space"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/word-spacing",
+                            "text": "word-spacing"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/text-outline",
+                            "text": "text-outline"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/text-overflow",
+                            "text": "text-overflow"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/text-shadow",
+                            "text": "text-shadow"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/text-wrap",
+                            "text": "text-wrap"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/word-break",
+                            "text": "word-break"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/word-wrap",
+                            "text": "word-wrap"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "List",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/list-style",
+                            "text": "list-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/list-style-image",
+                            "text": "list-style-image"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/list-style-position",
+                            "text": "list-style-position"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/list-style-type",
+                            "text": "list-style-type"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Table",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-collapse",
+                            "text": "border-collapse"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/border-spacing",
+                            "text": "border-spacing"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/caption-side",
+                            "text": "caption-side"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/empty-cells",
+                            "text": "empty-cells"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/table-layout",
+                            "text": "table-layout"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Marquee",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "CSS3 Box",
+            "items": [
+                {
+                    "board_title": "Box",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/overflow-x",
+                            "text": "overflow-x"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/overflow-y",
+                            "text": "overflow-y"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/overflow",
+                            "text": "overflow-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/transform-function#rotate()",
+                            "text": "rotation"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Flexible Box",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-align",
+                            "text": "box-align"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-direction",
+                            "text": "box-direction"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-flex",
+                            "text": "box-flex"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-flex-group",
+                            "text": "box-flex-group"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-lines",
+                            "text": "box-lines"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-ordinal-group",
+                            "text": "box-ordinal-group"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-orient",
+                            "text": "box-orient"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-pack",
+                            "text": "box-pack"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Linebox",
+                    "links": []
+                },
+                {
+                    "board_title": "Multi-column",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/column-count",
+                            "text": "column-count"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/column-fill",
+                            "text": "column-fill"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/column-gap",
+                            "text": "column-gap"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/column-rule",
+                            "text": "column-rule"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/column-rule-color",
+                            "text": "column-rule-color"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/column-rule-style",
+                            "text": "column-rule-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/column-rule-width",
+                            "text": "column-rule-width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/column-span",
+                            "text": "column-span"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/column-width",
+                            "text": "column-width"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/columns",
+                            "text": "columns"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Animation",
+            "items": [
+                {
+                    "board_title": "Animation",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/@keyframes",
+                            "text": "@keyframes"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/animation",
+                            "text": "animation"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/animation-name",
+                            "text": "animation-name"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/animation-duration",
+                            "text": "animation-duration"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/animation-timing-function",
+                            "text": "animation-timing-function"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/animation-delay",
+                            "text": "animation-delay"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/animation-fill-mode",
+                            "text": "animation-fill-mode"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/animation-iteration-count",
+                            "text": "animation-iteration-count"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/animation-direction",
+                            "text": "animation-direction"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/animation-play-state",
+                            "text": "animation-play-state"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "2D/3D Transform",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/transform",
+                            "text": "transform"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/transform-origin",
+                            "text": "transform-origin"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/transform-style",
+                            "text": "transform-style"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/perspective",
+                            "text": "perspective"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/perspective-origin",
+                            "text": "perspective-origin"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/backface-visibility",
+                            "text": "backface-visibility"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Transition",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/transition",
+                            "text": "transition"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/transition-property",
+                            "text": "transition-property"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/transition-duration",
+                            "text": "transition-duration"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/transition-timing-function",
+                            "text": "transition-timing-function"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/transition-delay",
+                            "text": "transition-delay"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Page",
+            "items": [
+                {
+                    "board_title": "Content for Page Media",
+                    "links": []
+                },
+                {
+                    "board_title": "Generated Content",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/content",
+                            "text": "content"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/counter-increment",
+                            "text": "counter-increment"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/counter-reset",
+                            "text": "counter-reset"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/quotes",
+                            "text": "quotes"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Page Media",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Miscellaneous",
+            "items": [
+                {
+                    "board_title": "Print",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/page-break-after",
+                            "text": "page-break-after"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/page-break-before",
+                            "text": "page-break-before"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/page-break-inside",
+                            "text": "page-break-inside"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Speech",
+                    "links": []
+                },
+                {
+                    "board_title": "User-interface",
+                    "links": [
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/appearance",
+                            "text": "appearance"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/box-sizing",
+                            "text": "box-sizing"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/icon",
+                            "text": "icon"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/nav-down",
+                            "text": "nav-down"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/nav-index",
+                            "text": "nav-index"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/nav-left",
+                            "text": "nav-left"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/nav-right",
+                            "text": "nav-right"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/nav-up",
+                            "text": "nav-up"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/outline-offset",
+                            "text": "outline-offset"
+                        },
+                        {
+                            "href": "https://developer.mozilla.org/en-US/docs/CSS/resize",
+                            "text": "resize"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
