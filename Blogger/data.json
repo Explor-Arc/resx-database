@@ -1,0 +1,343 @@
+{
+    "title": "Blogger",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "https://www.blogger.com/about",
+                            "text": "Official Website"
+                        },
+                        {
+                            "href": "https://en.wikipedia.org/wiki/Blogger_(service)",
+                            "text": "Blogger on Wikipedia"
+                        },
+                        {
+                            "href": "https://blogger.googleblog.com",
+                            "text": "Official Blogger Blog"
+                        },
+                        {
+                            "href": "https://www.google.com/appsstatus",
+                            "text": "Blogger Status Dashboard"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Support",
+                    "links": [
+                        {
+                            "href": "https://support.google.com/blogger/",
+                            "text": "Blogger Help Info"
+                        },
+                        {
+                            "href": "https://productforums.google.com/forum/#!forum/blogger",
+                            "text": "Blogger Help Forum"
+                        },
+                        {
+                            "href": "http://stackoverflow.com/questions/tagged/blogger",
+                            "text": "StackOverflow Channel"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "/static/cs/Blogger-Cheat-Sheet.pdf",
+                            "text": "Blogger IDs and classes in the templates [spanish, .pdf]"
+                        },
+                        {
+                            "href": "/static/cs/FAQofficielleBlogger.pdf",
+                            "text": "Blogger: Frequently Asked Questions [french, .pdf]"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Templates",
+            "items": [
+                {
+                    "board_title": "Catalogs",
+                    "links": [
+                        {
+                            "href": "http://btemplates.com",
+                            "text": "BTemplates"
+                        },
+                        {
+                            "href": "http://www.eblogtemplates.com/templates/blogger-templates/",
+                            "text": "EBlogTemplates"
+                        },
+                        {
+                            "href": "http://www.blogcrowds.com/resources/blogger-templates/",
+                            "text": "BlogCrowds"
+                        },
+                        {
+                            "href": "http://www.bloggerthemes.net",
+                            "text": "BloggerThemes"
+                        },
+                        {
+                            "href": "https://themeforest.net/category/blogging/blogger",
+                            "text": "ThemeForest (paid)"
+                        },
+                        {
+                            "href": "http://www.templateism.com/",
+                            "text": "Templateism (paid)"
+                        },
+                        {
+                            "href": "http://www.deluxetemplates.net/category/blogger-template",
+                            "text": "DeluxeTemplates"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Development",
+                    "links": [
+                        {
+                            "href": "https://support.google.com/blogger/answer/176245",
+                            "text": "Change the design of blog"
+                        },
+                        {
+                            "href": "https://support.google.com/blogger/answer/43708",
+                            "text": "Change blog layout"
+                        },
+                        {
+                            "href": "https://support.google.com/blogger/answer/46871",
+                            "text": "Customize CSS tags for layouts"
+                        },
+                        {
+                            "href": "https://support.google.com/blogger/answer/46888",
+                            "text": "Page elements tags for layouts"
+                        },
+                        {
+                            "href": "https://support.google.com/blogger/answer/46995",
+                            "text": "Widget tags for layouts"
+                        },
+                        {
+                            "href": "http://bguide.blogspot.com/2008/02/understanding-blogger-templates.html",
+                            "text": "Understanding Blogger templates"
+                        },
+                        {
+                            "href": "http://thoughtsomething.blogspot.com/2009/01/understanding-blogger-template-1.html",
+                            "text": "Blogger template explanation: sections, widgets, includables, includes, b: namespace"
+                        },
+                        {
+                            "href": "http://thoughtsomething.blogspot.com/2009/01/understanding-blogger-template-2.html",
+                            "text": "Blogger template explanation: data access, data: namespace elements"
+                        },
+                        {
+                            "href": "http://thoughtsomething.blogspot.com/2009/02/understanding-blogger-template-3.html",
+                            "text": "Blogger template explanation: how to use expr: namespace, customize links"
+                        },
+                        {
+                            "href": "https://bloggercode-blogconnexion.blogspot.com/2014/06/tag-b-skin-b-template-skin.html",
+                            "text": "Blogger template skin explanation (French)"
+                        },
+                        {
+                            "href": "http://geekthis.net/blog/131/structure-of-custom-blogger-themes",
+                            "text": "Structure of custom Blogger themes"
+                        },
+                        {
+                            "href": "http://blog.mohammadwali.in/2013/11/understanding-blogger-conditional-tags.html",
+                            "text": "Understanding and using Blogger conditional tags"
+                        },
+                        {
+                            "href": "http://www.dte.web.id/2012/11/xhtml-blogger-seksi-posting.html",
+                            "text": "XHTML Blogger (Indonesian)"
+                        },
+                        {
+                            "href": "http://www.bloggerever.com/2016/05/what-are-exactly-bloggers-lambda.html",
+                            "text": "What are exactly Blogger's Lambda expressions?"
+                        },
+                        {
+                            "href": "http://geekthis.net/blog/132/blogger-theme-data-tags-for-widgets",
+                            "text": "Blogger theme data tags for widgets"
+                        },
+                        {
+                            "href": "http://blogger2ools.mystady.com",
+                            "text": "List of Blogger layout data tags"
+                        },
+                        {
+                            "href": "http://snapman.net/notes/blogger-template-tags",
+                            "text": "List of Blogger template tags (Japanese)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Gadgets",
+            "items": [
+                {
+                    "board_title": "Develpment",
+                    "links": [
+                        {
+                            "href": "https://developers.google.com/gadgets/docs/overview",
+                            "text": "Google Gadget Developer's Guide"
+                        },
+                        {
+                            "href": "https://developers.google.com/blogger/docs/gadgets/gadgets_for_blogger",
+                            "text": "Blogger Gadget Developer's Guide"
+                        },
+                        {
+                            "href": "https://developers.google.com/blogger/docs/gadgets/gadgets_for_blogger#BestUIPractices",
+                            "text": "Best UI practices for Blogger gadgets"
+                        },
+                        {
+                            "href": "https://developers.google.com/gadgets/docs/xml_reference",
+                            "text": "Gadgets XML reference"
+                        },
+                        {
+                            "href": "https://groups.google.com/forum/#!forum/bloggerdev",
+                            "text": "Blogger Developer Group"
+                        },
+                        {
+                            "href": "http://www.thewildblogger.com/blogger/the-advanced-guide-to-blogger-gadgets/",
+                            "text": "How to develop Blogger gadgets from scratch"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Using",
+                    "links": [
+                        {
+                            "href": "https://www.blogger.com/gadget-submit.g",
+                            "text": "Submit a gadget for Blogger"
+                        },
+                        {
+                            "href": "https://www.blogger.com/add-widget",
+                            "text": "Import gadget to blog"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Tips and tricks",
+            "items": [
+                {
+                    "board_title": "Blog design",
+                    "links": [
+                        {
+                            "href": "http://www.tricksladder.com/2014/07/how-to-define-custom-variables-in.html",
+                            "text": "How to define custom variables in Blogger"
+                        },
+                        {
+                            "href": "http://www.blogxpertise.com/2012/11/blogger-blogspot-page-types.html",
+                            "text": "Using Blogger page types to affect blog design"
+                        },
+                        {
+                            "href": "http://stackoverflow.com/a/26075920/4555595",
+                            "text": "How to remove Blogger CSS widget bundle"
+                        },
+                        {
+                            "href": "http://www.mybloggerlab.com/2013/08/how-to-correctly-add-javascript-codes-in-blogger.html",
+                            "text": "How to correctly add JavaScript codes in Blogger"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Blog pages",
+                    "links": [
+                        {
+                            "href": "http://mystady.com/2011/05/7-blogger-page-types-analysis-code.html",
+                            "text": "7 Blogger page types: analysis, code snippets, data matrix"
+                        },
+                        {
+                            "href": "http://www.bloggerplugins.org/2012/03/custom-404-error-pages-for-blogger.html",
+                            "text": "Custom 404 error page for Blogger"
+                        },
+                        {
+                            "href": "http://blogger-hints-and-tips.blogspot.com/2012/07/Control-words-used-for-post-urls-in-blogger.html",
+                            "text": "How to set the URL for Blogger posts"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Widgets",
+                    "links": [
+                        {
+                            "href": "http://www.tricksladder.com/2014/06/showhide-widgets-on-specific-pages-in.html",
+                            "text": "How to show/hide widgets on specific pages in Blogger"
+                        },
+                        {
+                            "href": "https://bloggercode-blogconnexion.blogspot.com/2011/05/un-menu-de-gestion-pour-les.html",
+                            "text": "How to add administration links widget (French)"
+                        },
+                        {
+                            "href": "https://bloggercode-blogconnexion.blogspot.com/2012/05/customiser-le-message-detat.html",
+                            "text": "How to personalize status messages (French)"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Feeds",
+                    "links": [
+                        {
+                            "href": "http://www.danpros.com/2013/08/blogger-json-feed-api",
+                            "text": "Blogger JSON feed API"
+                        },
+                        {
+                            "href": "http://www.blogxpertise.com/2012/08/understanding-atom-rss-feeds-blogger.html",
+                            "text": "Understanding the Atom/RSS feed"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Pagination",
+                    "links": [
+                        {
+                            "href": "http://www.techprevue.com/wordpress-style-infinite-post-loading-script-for-blogger/",
+                            "text": "Infinite post loading for Blogger"
+                        },
+                        {
+                            "href": "http://www.mybloggertricks.com/2013/12/show-next-previous-post-titles-in.html",
+                            "text": "Show next and previous post title in navigation"
+                        },
+                        {
+                            "href": "http://blogger-hints-and-tips.blogspot.com/2012/10/remove-reformat-newer-older-or-home-links.html",
+                            "text": "How to change or remove the newer and older posts links"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Optimization",
+                    "links": [
+                        {
+                            "href": "http://www.danpros.com/2012/03/setting-up-robotstxt-on-blogger",
+                            "text": "Setting up robots.txt"
+                        },
+                        {
+                            "href": "http://www.thewildblogger.com/blogger/blogger-headline-structure/",
+                            "text": "How to optimize Blogger heading structure for H1, H2, H3 tags"
+                        },
+                        {
+                            "href": "http://www.bloggerhow.com/2012/07/how-to-implement-open-graph-protocol-in-bloggerblogspot-blogs/",
+                            "text": "How to implement OpenGraph protocol"
+                        },
+                        {
+                            "href": "http://www.bloggerhow.com/2012/07/implement-twitter-cards-blogger-blogspot-html/",
+                            "text": "How to implement Twitter Cards"
+                        },
+                        {
+                            "href": "http://www.blogxpertise.com/2014/01/Twitter-summary-card-for-blogger-blog.html",
+                            "text": "Getting blog to have Twitter Summary Cards"
+                        },
+                        {
+                            "href": "http://techinfoknow.com/twitter-cards-in-blogger-blogs",
+                            "text": "How to add Twitter Cards"
+                        },
+                        {
+                            "href": "https://plus.google.com/+VirgilTMorant/posts/89S4LJnLcQV",
+                            "text": "Solving a problem with images for Twitter Cards"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
