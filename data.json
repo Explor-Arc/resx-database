@@ -11,6 +11,61 @@
                 "Title": "Java",
                 "Id": "Java",
                 "Link": "https://github.com/Explor-Arc/resx-database/blob/main/Java/data.json"
+            },
+            {
+                "Title": "C",
+                "Id": "C",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/C/data.json"
+            },
+            {
+                "Title": "C++",
+                "Id": "CPP",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/CPP/data.json"
+            },
+            {
+                "Title": "CSS",
+                "Id": "CSS",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/CSS/data.json"
+            },
+            {
+                "Title": "C#",
+                "Id": "CSharp",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/CSharp/data.json"
+            },
+            {
+                "Title": "HTML",
+                "Id": "HTML",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/HTML/data.json"
+            },
+            {
+                "Title": ".NET",
+                "Id": "DotNet",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/DotNet/data.json"
+            },
+            {
+                "Title": "JavaScript",
+                "Id": "JavaScript",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/JavaScript/data.json"
+            },
+            {
+                "Title": "PHP",
+                "Id": "PHP",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/PHP/data.json"
+            },
+            {
+                "Title": "Python",
+                "Id": "Python",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/Python/data.json"
+            },
+            {
+                "Title": "R",
+                "Id": "R",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/R/data.json"
+            },
+            {
+                "Title": "ShellScript",
+                "Id": "ShellScript",
+                "Link": "https://github.com/Explor-Arc/resx-database/blob/main/ShellScript/data.json"
             }
         ]
     }
