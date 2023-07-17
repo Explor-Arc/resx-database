@@ -1,0 +1,245 @@
+{
+    "title": "R",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://www.r-project.org/",
+                            "text": "Official Website"
+                        },
+                        {
+                            "href": "http://en.wikipedia.org/wiki/R_(programming_language)",
+                            "text": "Wikipedia R"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "http://cran.r-project.org/doc/contrib/Short-refcard.pdf",
+                            "text": "R Reference Card [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/R-Short-refcard.pdf",
+                            "text": "R Reference Card [backup]"
+                        },
+                        {
+                            "href": "http://cran.r-project.org/doc/contrib/refcard.pdf",
+                            "text": "R reference card [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/R-refcard.pdf",
+                            "text": "R reference card [backup]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/statistics",
+                            "text": "Statistics"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Help",
+            "items": [
+                {
+                    "links": [
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/help.html",
+                            "text": "help(topic)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/zMachine.html",
+                            "text": "?.Machine"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/help.search.html",
+                            "text": "help.search(\"topic\")"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/apropos.html",
+                            "text": "apropos(\"topic\")"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/help.start.html",
+                            "text": "help.start()"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/str.html",
+                            "text": "str(a)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/summary.html",
+                            "text": "summary(a)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/ls.html",
+                            "text": "ls()"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/ls_str.html",
+                            "text": "ls.str()"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/list.files.html",
+                            "text": "dir()"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/methods/html/Methods.html",
+                            "text": "methods(a)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/methods/html/Classes.html",
+                            "text": "methods(class=class(a))"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Input / Output",
+            "items": [
+                {
+                    "links": [
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/source.html",
+                            "text": "source(\"my.R\")"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/data.html",
+                            "text": "data(f)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-devel/library/base/html/library.html",
+                            "text": "library(s)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/read.table.html",
+                            "text": "read.table(f)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/read.table.html",
+                            "text": "read.csv(f,header=TRUE)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/read.table.html",
+                            "text": "read.delim(f,header=TRUE)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/read.table.html",
+                            "text": "read.fwf(f,widths,header=FALSE,sep=\"\",as.is=FALSE)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/save.html",
+                            "text": "save(f,...)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/save.html",
+                            "text": "save.image(f)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/load.html",
+                            "text": "load(f)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/cat.html",
+                            "text": "cat(..., file=f, sep=\"\")"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/print.html",
+                            "text": "print(a, ...)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/format.info.html",
+                            "text": "format(x, ...)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/write.table.html",
+                            "text": "write.table(x, file=f, row.names=TRUE, col.names=TRUE, sep=\"\")"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/sink.html",
+                            "text": "sink(f)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/read.table.html",
+                            "text": "df <- read.delim(\"clipboard\")"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/utils/html/write.table.html",
+                            "text": "write.table(df,\"clipboard\",sep=\"\\t\",col.names=NA)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Data creation",
+            "items": [
+                {
+                    "links": [
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/c.html",
+                            "text": "\u0441(...)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/seq.html",
+                            "text": "seq(from, to, by = )"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/seq.html",
+                            "text": "seq(from, to, len = )"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/rep.html",
+                            "text": "rep(x, times)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/list.html",
+                            "text": "list(...)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/data.frame.html",
+                            "text": "data.frame(...)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/array.html",
+                            "text": "array(data, dims)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/matrix.html",
+                            "text": "matrix(data, nrow = , ncol = , byrow = )"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/factor.html",
+                            "text": "factor(x, levels = )"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/gl.html",
+                            "text": "gl(n, k, length = n*k, labels = 1:n)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/cbind.html",
+                            "text": "rbind(...)"
+                        },
+                        {
+                            "href": "http://stat.ethz.ch/R-manual/R-patched/library/base/html/cbind.html",
+                            "text": "cbind(...)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
