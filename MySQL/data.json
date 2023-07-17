@@ -1,0 +1,1217 @@
+{
+    "title": "MySQL",
+    "desc": "",
+    "values": [
+        {
+            "title": "Resource",
+            "items": [
+                {
+                    "board_title": "Online",
+                    "links": [
+                        {
+                            "href": "http://www.mysql.com/",
+                            "text": "Official Website"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Download",
+                    "links": [
+                        {
+                            "href": "/static/cs/mysql_cheat_sheet.pdf",
+                            "text": "MySQL Cheat Sheet [.pdf]"
+                        },
+                        {
+                            "href": "/static/cs/MySQL_QuickRef.pdf",
+                            "text": "MySQL Database Quick Reference [.pdf]"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Related",
+                    "links": [
+                        {
+                            "href": "/db2",
+                            "text": "Db2"
+                        },
+                        {
+                            "href": "/oracle",
+                            "text": "Oracle"
+                        },
+                        {
+                            "href": "/postgresql",
+                            "text": "PostgreSQL"
+                        },
+                        {
+                            "href": "/sql",
+                            "text": "SQL"
+                        },
+                        {
+                            "href": "/sqlite",
+                            "text": "SQLite"
+                        },
+                        {
+                            "href": "/sybase",
+                            "text": "Sybase"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Data Types",
+            "items": [
+                {
+                    "board_title": "Types",
+                    "links": []
+                }
+            ]
+        },
+        {
+            "title": "Operators",
+            "items": [
+                {
+                    "board_title": "Assignment Operators",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/assignment-operators.html#operator_assign-equal",
+                            "text": "="
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/assignment-operators.html#operator_assign-value",
+                            "text": ":="
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Logical Operators",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/logical-operators.html#operator_and",
+                            "text": "AND, &&"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/logical-operators.html#operator_not",
+                            "text": "NOT, !"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/logical-operators.html#operator_or",
+                            "text": "||, OR"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/logical-operators.html#operator_xor",
+                            "text": "XOR"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Comparison Operators",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_between",
+                            "text": "BETWEEN ... AND ... "
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/cast-functions.html#operator_binary",
+                            "text": "BINARY"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/bit-functions.html#operator_bitwise-and",
+                            "text": "&"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/bit-functions.html#operator_bitwise-invert",
+                            "text": "~"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/bit-functions.html#operator_bitwise-or",
+                            "text": "|"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/bit-functions.html#operator_bitwise-xor",
+                            "text": "^"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/control-flow-functions.html#operator_case",
+                            "text": "CASE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_div",
+                            "text": "DIV"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_divide",
+                            "text": "/"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_equal-to",
+                            "text": "<=>"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_equal",
+                            "text": "="
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_greater-than-or-equal",
+                            "text": ">="
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_greater-than",
+                            "text": ">"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_is-not-null",
+                            "text": "IS NOT NULL"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_is-not",
+                            "text": "IS NOT"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_is-null",
+                            "text": "IS NULL"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_is",
+                            "text": "IS"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/bit-functions.html#operator_left-shift",
+                            "text": "<<"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_less-than-or-equal",
+                            "text": "<="
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_less-than",
+                            "text": "<"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html#operator_like",
+                            "text": "LIKE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_minus",
+                            "text": "-"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_mod",
+                            "text": "% or MOD"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_not-between",
+                            "text": "NOT BETWEEN ... AND ..."
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/comparison-operators.html#operator_not-equal",
+                            "text": "!=, <>"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html#operator_not-like",
+                            "text": "NOT LIKE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/regexp.html#operator_not-regexp",
+                            "text": "NOT REGEXP"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_plus",
+                            "text": "+"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/regexp.html#operator_regexp",
+                            "text": "REGEXP"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/bit-functions.html#operator_right-shift",
+                            "text": ">>"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/regexp.html#operator_regexp",
+                            "text": "RLIKE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#operator_sounds-like",
+                            "text": "SOUNDS LIKE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_times",
+                            "text": "*"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_unary-minus",
+                            "text": "-"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "String",
+            "items": [
+                {
+                    "board_title": "String Comparison",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html#operator_like",
+                            "text": "LIKE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html#operator_not-like",
+                            "text": "NOT LIKE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html#function_strcmp",
+                            "text": "STRCMP()"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Regular Expressions",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/regexp.html#operator_not-regexp",
+                            "text": "NOT REGEXP"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/regexp.html#operator_regexp",
+                            "text": "REGEXP"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/regexp.html#operator_regexp",
+                            "text": "RLIKE"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "String Functions",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_ascii",
+                            "text": "ASCII()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_bin",
+                            "text": "BIN()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_bit-length",
+                            "text": "BIT_LENGTH()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_char-length",
+                            "text": "CHAR_LENGTH()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_char",
+                            "text": "CHAR()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_character-length",
+                            "text": "CHARACTER_LENGTH()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_concat-ws",
+                            "text": "CONCAT_WS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_concat",
+                            "text": "CONCAT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_elt",
+                            "text": "ELT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_export-set",
+                            "text": "EXPORT_SET()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_field",
+                            "text": "FIELD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_find-in-set",
+                            "text": "FIND_IN_SET()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_format",
+                            "text": "FORMAT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_hex",
+                            "text": "HEX()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_insert",
+                            "text": "INSERT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_instr",
+                            "text": "INSTR()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_lcase",
+                            "text": "LCASE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_left",
+                            "text": "LEFT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_length",
+                            "text": "LENGTH()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html#operator_like",
+                            "text": "LIKE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_load-file",
+                            "text": "LOAD_FILE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_locate",
+                            "text": "LOCATE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_lower",
+                            "text": "LOWER()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_lpad",
+                            "text": "LPAD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_ltrim",
+                            "text": "LTRIM()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_make-set",
+                            "text": "MAKE_SET()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/fulltext-search.html#function_match",
+                            "text": "MATCH"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_mid",
+                            "text": "MID()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html#operator_not-like",
+                            "text": "NOT LIKE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/regexp.html#operator_not-regexp",
+                            "text": "NOT REGEXP"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_octet-length",
+                            "text": "OCTET_LENGTH()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_ord",
+                            "text": "ORD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_position",
+                            "text": "POSITION()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_quote",
+                            "text": "QUOTE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/regexp.html#operator_regexp",
+                            "text": "REGEXP"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_repeat",
+                            "text": "REPEAT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_replace",
+                            "text": "REPLACE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_reverse",
+                            "text": "REVERSE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_right",
+                            "text": "RIGHT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/regexp.html#operator_regexp",
+                            "text": "RLIKE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_rpad",
+                            "text": "RPAD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_rtrim",
+                            "text": "RTRIM()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_soundex",
+                            "text": "SOUNDEX()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#operator_sounds-like",
+                            "text": "SOUNDS LIKE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_space",
+                            "text": "SPACE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-comparison-functions.html#function_strcmp",
+                            "text": "STRCMP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_substr",
+                            "text": "SUBSTR()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_substring-index",
+                            "text": "SUBSTRING_INDEX()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_substring",
+                            "text": "SUBSTRING()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_trim",
+                            "text": "TRIM()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_ucase",
+                            "text": "UCASE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_unhex",
+                            "text": "UNHEX()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/string-functions.html#function_upper",
+                            "text": "UPPER()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Numeric",
+            "items": [
+                {
+                    "board_title": "Arithmetic Operators",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_div",
+                            "text": "DIV"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_divide",
+                            "text": "/"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_minus",
+                            "text": "-"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_mod",
+                            "text": "% or MOD"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_plus",
+                            "text": "+"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_times",
+                            "text": "*"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/arithmetic-functions.html#operator_unary-minus",
+                            "text": "-"
+                        }
+                    ]
+                },
+                {
+                    "board_title": "Mathematical Functions",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_abs",
+                            "text": "ABS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_acos",
+                            "text": "ACOS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_asin",
+                            "text": "ASIN()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_atan2",
+                            "text": "ATAN2(), ATAN()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_atan",
+                            "text": "ATAN()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_ceil",
+                            "text": "CEIL()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_ceiling",
+                            "text": "CEILING()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_conv",
+                            "text": "CONV()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_cos",
+                            "text": "COS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_cot",
+                            "text": "COT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_crc32",
+                            "text": "CRC32()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_degrees",
+                            "text": "DEGREES()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_exp",
+                            "text": "EXP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_floor",
+                            "text": "FLOOR()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_ln",
+                            "text": "LN()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_log10",
+                            "text": "LOG10()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_log2",
+                            "text": "LOG2()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_log",
+                            "text": "LOG()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_mod",
+                            "text": "MOD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_oct",
+                            "text": "OCT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_pi",
+                            "text": "PI()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_pow",
+                            "text": "POW()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_power",
+                            "text": "POWER()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_radians",
+                            "text": "RADIANS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_rand",
+                            "text": "RAND()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_round",
+                            "text": "ROUND()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_sign",
+                            "text": "SIGN()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_sin",
+                            "text": "SIN()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_sqrt",
+                            "text": "SQRT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_tan",
+                            "text": "TAN()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_truncate",
+                            "text": "TRUNCATE()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Date",
+            "items": [
+                {
+                    "board_title": "Date and Time",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_adddate",
+                            "text": "ADDDATE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_addtime",
+                            "text": "ADDTIME()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_convert-tz",
+                            "text": "CONVERT_TZ()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_curdate",
+                            "text": "CURDATE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_current-date",
+                            "text": "CURRENT_DATE(), CURRENT_DATE"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_current-time",
+                            "text": "CURRENT_TIME(), CURRENT_TIME"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_current-timestamp",
+                            "text": "CURRENT_TIMESTAMP(), CURRENT_TIMESTAMP"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_curtime",
+                            "text": "CURTIME()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_date-add",
+                            "text": "DATE_ADD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_date-format",
+                            "text": "DATE_FORMAT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_date-sub",
+                            "text": "DATE_SUB()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_date",
+                            "text": "DATE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_datediff",
+                            "text": "DATEDIFF()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_day",
+                            "text": "DAY()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_dayname",
+                            "text": "DAYNAME()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_dayofmonth",
+                            "text": "DAYOFMONTH()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_dayofweek",
+                            "text": "DAYOFWEEK()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_dayofyear",
+                            "text": "DAYOFYEAR()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_extract",
+                            "text": "EXTRACT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_from-days",
+                            "text": "FROM_DAYS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_from-unixtime",
+                            "text": "FROM_UNIXTIME()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_get-format",
+                            "text": "GET_FORMAT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_hour",
+                            "text": "HOUR()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_last-day",
+                            "text": "LAST_DAY"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_localtime",
+                            "text": "LOCALTIME(), LOCALTIME"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_localtimestamp",
+                            "text": "LOCALTIMESTAMP, LOCALTIMESTAMP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_makedate",
+                            "text": "MAKEDATE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_maketime",
+                            "text": "MAKETIME"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_microsecond",
+                            "text": "MICROSECOND()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_minute",
+                            "text": "MINUTE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_month",
+                            "text": "MONTH()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_monthname",
+                            "text": "MONTHNAME()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_now",
+                            "text": "NOW()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_period-add",
+                            "text": "PERIOD_ADD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_period-diff",
+                            "text": "PERIOD_DIFF()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_quarter",
+                            "text": "QUARTER()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_sec-to-time",
+                            "text": "SEC_TO_TIME()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_second",
+                            "text": "SECOND()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_str-to-date",
+                            "text": "STR_TO_DATE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_subdate",
+                            "text": "SUBDATE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_subtime",
+                            "text": "SUBTIME()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_sysdate",
+                            "text": "SYSDATE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_time-format",
+                            "text": "TIME_FORMAT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_time-to-sec",
+                            "text": "TIME_TO_SEC()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_time",
+                            "text": "TIME()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_timediff",
+                            "text": "TIMEDIFF()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_timestamp",
+                            "text": "TIMESTAMP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_timestampadd",
+                            "text": "TIMESTAMPADD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_timestampdiff",
+                            "text": "TIMESTAMPDIFF()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_to-days",
+                            "text": "TO_DAYS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_to-seconds",
+                            "text": "TO_SECONDS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_unix-timestamp",
+                            "text": "UNIX_TIMESTAMP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_utc-date",
+                            "text": "UTC_DATE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_utc-time",
+                            "text": "UTC_TIME()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_utc-timestamp",
+                            "text": "UTC_TIMESTAMP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_week",
+                            "text": "WEEK()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_weekday",
+                            "text": "WEEKDAY()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_weekofyear",
+                            "text": "WEEKOFYEAR()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_year",
+                            "text": "YEAR()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/date-and-time-functions.html#function_yearweek",
+                            "text": "YEARWEEK()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Group",
+            "items": [
+                {
+                    "board_title": "GROUP BY Functions",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_avg",
+                            "text": "AVG()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_bit-and",
+                            "text": "BIT_AND()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_bit-or",
+                            "text": "BIT_OR()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_bit-xor",
+                            "text": "BIT_XOR()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_count-distinct",
+                            "text": "COUNT(DISTINCT)"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_count",
+                            "text": "COUNT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_group-concat",
+                            "text": "GROUP_CONCAT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_max",
+                            "text": "MAX()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_min",
+                            "text": "MIN()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_std",
+                            "text": "STD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_stddev-pop",
+                            "text": "STDDEV_POP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_stddev-samp",
+                            "text": "STDDEV_SAMP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_stddev",
+                            "text": "STDDEV()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_sum",
+                            "text": "SUM()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_var-pop",
+                            "text": "VAR_POP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_var-samp",
+                            "text": "VAR_SAMP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/group-by-functions.html#function_variance",
+                            "text": "VARIANCE()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Information",
+            "items": [
+                {
+                    "board_title": "Information Functions",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_benchmark",
+                            "text": "BENCHMARK()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_charset",
+                            "text": "CHARSET()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_coercibility",
+                            "text": "COERCIBILITY()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_collation",
+                            "text": "COLLATION()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_connection-id",
+                            "text": "CONNECTION_ID()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_current-user",
+                            "text": "CURRENT_USER(), CURRENT_USER"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_database",
+                            "text": "DATABASE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_found-rows",
+                            "text": "FOUND_ROWS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_last-insert-id",
+                            "text": "LAST_INSERT_ID()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_row-count",
+                            "text": "ROW_COUNT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_schema",
+                            "text": "SCHEMA()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_session-user",
+                            "text": "SESSION_USER()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_system-user",
+                            "text": "SYSTEM_USER()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_user",
+                            "text": "USER()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/information-functions.html#function_version",
+                            "text": "VERSION()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Encrypt",
+            "items": [
+                {
+                    "board_title": "Encryption and Compression",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_aes-decrypt",
+                            "text": "AES_DECRYPT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_aes-encrypt",
+                            "text": "AES_ENCRYPT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_compress",
+                            "text": "COMPRESS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_decode",
+                            "text": "DECODE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_des-decrypt",
+                            "text": "DES_DECRYPT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_des-encrypt",
+                            "text": "DES_ENCRYPT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_encode",
+                            "text": "ENCODE()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_encrypt",
+                            "text": "ENCRYPT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_md5",
+                            "text": "MD5()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_old-password",
+                            "text": "OLD_PASSWORD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_password",
+                            "text": "PASSWORD()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_sha1",
+                            "text": "SHA1(), SHA()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_sha2",
+                            "text": "SHA2()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_uncompress",
+                            "text": "UNCOMPRESS()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/encryption-functions.html#function_uncompressed-length",
+                            "text": "UNCOMPRESSED_LENGTH()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Miscellaneous",
+            "items": [
+                {
+                    "board_title": "Miscellaneous Functions",
+                    "links": [
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_default",
+                            "text": "DEFAULT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_get-lock",
+                            "text": "GET_LOCK()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_inet-aton",
+                            "text": "INET_ATON()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_inet-ntoa",
+                            "text": "INET_NTOA()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_is-free-lock",
+                            "text": "IS_FREE_LOCK()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_is-used-lock",
+                            "text": "IS_USED_LOCK()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_master-pos-wait",
+                            "text": "MASTER_POS_WAIT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_name-const",
+                            "text": "NAME_CONST()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/mathematical-functions.html#function_rand",
+                            "text": "RAND()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_release-lock",
+                            "text": "RELEASE_LOCK()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_sleep",
+                            "text": "SLEEP()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_uuid-short",
+                            "text": "UUID_SHORT()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_uuid",
+                            "text": "UUID()"
+                        },
+                        {
+                            "href": "http://dev.mysql.com/doc/refman/5.5/en/miscellaneous-functions.html#function_values",
+                            "text": "VALUES()"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Samples",
+            "items": [
+                {
+                    "board_title": "Select Queires",
+                    "links": []
+                }
+            ]
+        }
+    ]
+}
